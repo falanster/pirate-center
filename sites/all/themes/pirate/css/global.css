@@ -77,17 +77,19 @@ body {
 /* @end header menu*/
 
 /* Main menu */
-#secondary-menu {
+#block-menu-menu-main-menu {
   float: right;
   margin: -40px 95px 0px 0px;
 }
 
-#secondary-menu li {
+#block-menu-menu-main-menu li {
   padding-right: 18px;
   margin-right: 0px;
+  list-style: none;
+  display: inline;
 }
 
-#secondary-menu li a {
+#block-menu-menu-main-menu li a {
   text-decoration: none;
   color: #ffffff;
   font-size: 14px;
