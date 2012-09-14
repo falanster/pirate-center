@@ -364,3 +364,9 @@ body {
 }
 
 /* @endew and static pages */
+
+/*webform settings*/
+	article.node-webform {
+	padding: 20px;
+}
+/*@end webform settings*/
