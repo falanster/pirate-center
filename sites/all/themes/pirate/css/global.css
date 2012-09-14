@@ -143,7 +143,7 @@ body {
 #block-views-afishi-block h2.block-title,
 #block-views-afishi-block-1 h2.block-title {
   color: #6f6d6d;
-  font-size: 30px;
+  font-size: 30px !important;
   font-weight: normal;
   margin-bottom: -10px;
 }
