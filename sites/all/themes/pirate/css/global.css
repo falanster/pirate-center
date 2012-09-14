@@ -348,4 +348,8 @@ body {
   width: 320px;
 }
 
+.page-node #block-views-afishi-block {
+  margin: 0px;
+}
+
 /* @endew and static pages */
