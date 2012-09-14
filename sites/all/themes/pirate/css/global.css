@@ -110,6 +110,10 @@ body {
   float: left;
 }
 
+.page-node #block-sharethis-sharethis-block {
+  margin-top: 55px;
+}
+
 .page-frontpage #block-sharethis-sharethis-block .sharethis-wrapper,
 .page-node #block-sharethis-sharethis-block .sharethis-wrapper {
   width: 38px;
