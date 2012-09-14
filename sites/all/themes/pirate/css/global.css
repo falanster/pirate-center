@@ -64,8 +64,6 @@ body {
   list-style: none;
   float: right;
   margin: 20px 20px 15px 0px;
-  list-style: none;
-  display: inline;
   padding: 0px;
 }
 
@@ -86,6 +84,8 @@ body {
 #block-menu-menu-main-menu li {
   padding-right: 18px;
   margin-right: 0px;
+  list-style: none;
+  display: inline;
 }
 
 #block-menu-menu-main-menu li a {
