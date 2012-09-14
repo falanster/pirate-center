@@ -214,7 +214,7 @@ body {
 /* Afishi i kolonki */
 
 #block-views-afishi-block .content,
-#block-views-afishi-frontpage-block-1 .content {
+#block-views-afishi-block-1 .content {
     border: #6f6d6d 3px solid;
 	width: 300px;
 	margin-left: -60px;
@@ -226,7 +226,7 @@ body {
 }
 
 #block-views-afishi-block h2.block-title,
-#block-views-afishi-frontpage-block-1 h2.block-title {
+#block-views-afishi-block-1 h2.block-title {
   margin-left: -57px;
 }
 
