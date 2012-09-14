@@ -287,9 +287,12 @@ body {
   margin-top: 30px;
 }
 
+#block-menu-menu-footer-menu {
+  margin-top: 15px;
+}
+
 #block-menu-menu-footer-menu ul {
   text-align: center;
-  margin-top: 15px;
 }
 
 #block-menu-menu-footer-menu ul li {
