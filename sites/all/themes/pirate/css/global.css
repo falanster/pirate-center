@@ -87,7 +87,6 @@ body {
   margin-right: 0px;
   list-style: none;
   display: inline;
-  float: right;
 }
 
 #block-menu-menu-main-menu li a {
@@ -341,6 +340,11 @@ body {
   color: #3c3b3b;
   font-size: 36px;
   text-align: right;
+}
+
+.page-node #block-views-afishi-block,
+.page-node block-views-afishi-block-1 {
+  float: left;
 }
 
 /* @endew and static pages */
