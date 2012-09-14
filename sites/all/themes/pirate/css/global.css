@@ -47,6 +47,7 @@ body {
 
 /* @end logo and sitename */
 
+
 /* @end header */
 
 /* Nice menu */
@@ -76,19 +77,17 @@ body {
 /* @end header menu*/
 
 /* Main menu */
-#block-menu-menu-main-menu {
+#secondary-menu {
   float: right;
   margin: -40px 95px 0px 0px;
 }
 
-#block-menu-menu-main-menu li {
+#secondary-menu li {
   padding-right: 18px;
   margin-right: 0px;
-  list-style: none;
-  display: inline;
 }
 
-#block-menu-menu-main-menu li a {
+#secondary-menu li a {
   text-decoration: none;
   color: #ffffff;
   font-size: 14px;
@@ -214,19 +213,19 @@ body {
 
 /* Afishi i kolonki */
 
-#block-views-afishi-frontpage-block .content,
+#block-views-afishi-block .content,
 #block-views-afishi-frontpage-block-1 .content {
     border: #6f6d6d 3px solid;
-        width: 300px;
-        margin-left: -60px;
-        margin-bottom: 45px;
+	width: 300px;
+	margin-left: -60px;
+	margin-bottom: 45px;
 }
 
-#block-views-afishi-frontpage-block {
+#block-views-afishi-block {
   margin-top: 90px;
 }
 
-#block-views-afishi-frontpage-block h2.block-title,
+#block-views-afishi-block h2.block-title,
 #block-views-afishi-frontpage-block-1 h2.block-title {
   margin-left: -57px;
 }
@@ -244,6 +243,7 @@ body {
   clear: left;
   
 }
+
 
 .view-afishi-frontpage .views-row .views-field-title a{
   font-size: 24px;
@@ -345,4 +345,3 @@ body {
 }
 
 /* @endew and static pages */
-
