@@ -346,6 +346,7 @@ body {
 .page-node #block-views-afishi-block-1 {
   float: left;
   width: 320px;
+  margin-top: 40px;
 }
 
 .page-node #block-views-afishi-block {
@@ -354,6 +355,7 @@ body {
 
 #block-block-5 {
   float: right;
+  margin-top: 68px;
 }
 
 /* @endew and static pages */
