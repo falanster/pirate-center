@@ -104,7 +104,8 @@ body {
 /* Sharethis block */
 
 .page-frontpage #block-sharethis-sharethis-block,
-.page-node #block-sharethis-sharethis-block {
+.page-node #block-sharethis-sharethis-block,
+.not-front #block-sharethis-sharethis-block {
   float: left;
 }
 
@@ -248,6 +249,7 @@ body {
   margin-right: 15px;
   clear: left; 
   text-align: right;
+  width: 200px;
 }
 
 .view-afishi .views-row .views-field-title a{
