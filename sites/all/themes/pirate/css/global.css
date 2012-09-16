@@ -1,6 +1,7 @@
 /* This file will hold styles for the mobile version of your website (mobile first). */
 /* This also can include ANY global CSS that applies site-wide. Unless overwritten by a more specific style rule, CSS declarations in global.css will apply site-wide. */
 
+<<<<<<< HEAD
 body {
   font-family: Calibri;
 }
@@ -374,3 +375,5 @@ article.node-webform {
 	padding: 20px;
 }
 /*@end webform settings*/
+=======
+>>>>>>> c2e6b624a256d430521252038de8ed6b02470607

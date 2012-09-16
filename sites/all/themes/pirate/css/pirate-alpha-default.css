@@ -1,1 +1,371 @@
 /* This file will hold styles for all layouts using the alpha grid (i.e. not the mobile layout). */
+
+body {
+  font-family: Calibri;
+}
+
+/* Header */
+#zone-branding-wrapper {
+  background: #000;
+  height: 180px;
+}
+
+/* Logo and sitename*/
+#block-block-1{
+  float: left;
+}
+
+#block-block-1 a img {
+  float: left;
+  margin-right: 25px;
+}
+
+#block-block-2{
+  float: left;
+}
+
+#block-block-2 a img {
+  float: left;
+  margin-top: 40px;
+}
+
+#block-block-3,
+#block-block-4 {
+  float: right;
+}
+
+#block-block-3 a img{
+  margin-top: 55px;
+  margin-right: -10px;
+}
+
+#block-block-4 a img {
+  margin-top: 10px;
+  margin-right: -10px;
+}
+
+/* @end logo and sitename */
+
+
+/* @end header */
+
+/* Nice menu */
+/* Header menu */
+#block-menu-menu-header-menu .block-title {
+  display: none;
+}
+
+#block-menu-menu-header-menu ul {
+  margin-right: -27px;
+}
+
+#block-menu-menu-header-menu ul li {
+  display: inline;
+  list-style: none;
+  float: right;
+  margin: 20px 20px 15px 0px;
+  padding: 0px;
+}
+
+#block-menu-menu-header-menu ul li a {
+  text-decoration: none;
+  color: #000000;
+  font-size: 14px;
+}
+
+/* @end header menu*/
+
+/* Main menu */
+#block-menu-menu-main-menu {
+  float: right;
+  margin: 10px -15px 0px 0px;
+}
+
+#block-menu-menu-main-menu li {
+  padding-right: 18px;
+  margin-right: 0px;
+  list-style: none;
+  display: inline;
+}
+
+#block-menu-menu-main-menu li a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 14px;
+}
+
+/* @end main menu */
+
+
+/* @end nice menu*/
+
+
+/* Front page */
+
+/* Sharethis block */
+
+.page-frontpage #block-sharethis-sharethis-block,
+.page-node #block-sharethis-sharethis-block {
+  float: left;
+}
+
+.page-node #block-sharethis-sharethis-block {
+  margin-top: 55px;
+}
+
+.page-frontpage #block-sharethis-sharethis-block .sharethis-wrapper,
+.page-node #block-sharethis-sharethis-block .sharethis-wrapper {
+  width: 38px;
+  margin-left: -60px;
+  float: left;
+  border: #6f6d6d 2px solid;
+}
+
+.page-frontpage #block-sharethis-sharethis-block .sharethis-wrapper span,
+.page-node #block-sharethis-sharethis-block .sharethis-wrapper span {
+  margin-top: 3px;
+}
+
+.page-node #block-sharethis-sharethis-block .sharethis-wrapper {
+  margin-top: -140px;
+}
+
+/* @end sharethis block */
+
+/* Lenta novostej */
+
+#region-content {
+  margin-top: 90px;
+}
+
+.contextual-links-region h1#page-title,
+#block-views-afishi-block h2.block-title,
+#block-views-afishi-block-1 h2.block-title {
+  color: #6f6d6d;
+  font-size: 30px !important;
+  font-weight: normal;
+  margin-bottom: -10px;
+}
+
+.view-news-lenta .views-row {
+  border: #6f6d6d 3px solid;
+  margin-bottom: 35px;
+  float: left;
+  width: 620px;
+
+}
+
+.view-news-lenta .views-row .views-field-title {
+  float: right;
+  padding-right: 16px;
+  width: 445px;
+  margin-top: 35px;
+}
+
+.view-news-lenta .views-row .views-field-title span a{
+  text-decoration: none;
+  font-size: 36px;
+  color: #3c3b3b;
+  float: right;
+  line-height: 1.1;
+  text-align: right;
+}
+
+.view-news-lenta .views-row .views-field-field-date {
+  float: right;
+  clear: right;
+  margin-right: 16px;
+}
+
+.view-news-lenta .views-row .views-field-field-date span {
+  color: #8c8b8c;
+}
+
+.view-news-lenta .views-row .views-field-field-image {
+  width: 220px;
+  float: left;
+}
+
+.view-news-lenta .views-row .views-field-field-image a img {
+  margin: 5px 45px 40px 25px; 
+}
+
+.view-news-lenta .views-row .views-field-body {
+  width: 300px;
+  float: right;
+  margin: 50px 35px 0 0;
+}
+
+.view-news-lenta .views-row .views-field-body .field-content {
+  color: #3d3d3d;
+  font-size: 16px;
+}
+
+.view-news-lenta .views-row .views-field-view-node {
+  float: right;
+  clear: right;
+  margin: 70px 30px 0 0;
+}
+
+.view-news-lenta .views-row .views-field-view-node a{
+
+  color: #8c8b8c;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+/* @end lenta novostej */
+
+/* Afishi i kolonki */
+
+#block-views-afishi-block .content,
+#block-views-afishi-block-1 .content {
+    border: #6f6d6d 3px solid;
+	width: 300px;
+	margin-bottom: 45px;
+}
+
+#block-views-afishi-block {
+  margin-top: 90px;
+}
+/*
+#block-views-afishi-block h2.block-title,
+#block-views-afishi-block-1 h2.block-title {
+  margin-left: -57px;
+} */
+
+.view-afishi .views-row {
+  float: left;
+  margin-bottom: 10px;
+}
+
+.view-afishi .views-row .views-field-title {
+  float: right;
+  margin-top: 30px;
+  margin-right: 15px;
+  width: 250px;
+  clear: left; 
+}
+
+.view-afishi .views-row .views-field-title a{
+  font-size: 24px;
+  color: #3c3b3b;
+  text-decoration: none;
+  line-height: 1;
+}
+
+.view-afishi .views-row .views-field-field-image {
+  float: left;
+  margin: 10px 23px 2px 20px;
+}
+
+.view-afishi .views-row .views-field-body {
+  float: left;
+  width: 135px;
+  margin-top: 10px;
+}
+
+.view-afishi .views-row .views-field-body p{
+  margin-bottom: 0px;
+}
+
+.view-afishi .views-row .views-field-body .field-content {
+  color: #3d3d3d;
+  font-size: 12px;
+}
+.view-afishi .views-row .views-field-field-autor {
+  float: left;
+  clear: left;
+  margin-left: 25px;
+}
+
+/* @end afishi i kolonki */
+
+
+/* Footer */
+
+#zone-footer-wrapper {
+  background: #000;
+  height: 200px;
+  margin-top: 30px;
+}
+
+#block-menu-menu-footer-menu {
+  margin-top: 15px;
+}
+
+#block-menu-menu-footer-menu ul {
+  text-align: center;
+}
+
+#block-menu-menu-footer-menu ul li {
+  list-style: none;
+  display: inline;
+  text-align: center;
+}
+
+#block-menu-menu-footer-menu ul li a{
+  color: #dedede;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+/* @end footer */
+
+
+/* @end front page */
+
+
+/* New and static pages */
+
+.page-node{
+  font-family: Calibri;
+}
+
+.breadcrumb {
+  margin-top: 75px; 
+}
+
+.breadcrumb a {
+  color: #3d3d3d;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.page-node #region-content {
+  margin-top: 15px;
+}
+
+.page-node #zone-content-wrapper .region-content-inner {
+  float: left;
+  border: #6f6d6d 3px solid;
+}
+
+.page-node #zone-content-wrapper .region-content-inner #page-title {
+  float: right;
+  margin: 24px 24px 0 0;
+  color: #3c3b3b;
+  font-size: 36px;
+  text-align: right;
+}
+
+.page-node #block-views-afishi-block,
+.page-node #block-views-afishi-block-1 {
+  float: left;
+  width: 320px;
+  margin-top: 40px;
+}
+
+
+#block-block-5 {
+  float: right;
+  margin-top: 68px;
+}
+
+/* @endew and static pages */
+
+/*webform settings*/
+	article.node-webform {
+	padding: 20px;
+}
+/*@end webform settings*/
