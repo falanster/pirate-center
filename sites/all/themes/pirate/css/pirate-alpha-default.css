@@ -109,8 +109,7 @@ body {
   float: left;
 }
 
-.page-node #block-sharethis-sharethis-block,
-.not-front #block-sharethis-sharethis-block {
+.page-node #block-sharethis-sharethis-block {
   margin-top: 55px;
 }
 
