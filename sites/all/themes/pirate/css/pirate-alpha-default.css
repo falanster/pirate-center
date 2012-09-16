@@ -219,19 +219,19 @@ body {
 
 #block-views-afishi-block .content,
 #block-views-afishi-block-1 .content {
-    border: #6f6d6d 3px solid;
-	width: 300px;
-	margin-bottom: 45px;
+  border: #6f6d6d 3px solid;
+  width: 300px;
+  margin-bottom: 45px;
 }
 
 #block-views-afishi-block {
   margin-top: 90px;
 }
-/*
+
 #block-views-afishi-block h2.block-title,
 #block-views-afishi-block-1 h2.block-title {
-  margin-left: -57px;
-} */
+  font-size: 30px;
+} 
 
 .view-afishi .views-row {
   float: left;
@@ -242,7 +242,6 @@ body {
   float: right;
   margin-top: 30px;
   margin-right: 15px;
-  width: 250px;
   clear: left; 
 }
 
