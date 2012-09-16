@@ -187,6 +187,7 @@ body {
 .view-news-lenta .views-row .views-field-field-image {
   width: 220px;
   float: left;
+  margin: 10px 0 10px 25px;
 }
 
 .view-news-lenta .views-row .views-field-field-image a img {
@@ -194,7 +195,9 @@ body {
 }
 
 .view-news-lenta .views-row .views-field-body {
-  float: left;
+  float: right;
+  min-width: 300px;
+  margin: 0 35px 0 45px;
 }
 
 .view-news-lenta .views-row .views-field-body .field-content {
