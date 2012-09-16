@@ -190,18 +190,16 @@ body {
 }
 
 .view-news-lenta .views-row .views-field-field-image a img {
-  margin: 5px 45px 40px 25px; 
+  float: left;
 }
 
 .view-news-lenta .views-row .views-field-body {
-  float: right;
-  margin: 50px 35px 0 0;
+  float: left;
 }
 
 .view-news-lenta .views-row .views-field-body .field-content {
   color: #3d3d3d;
   font-size: 16px;
-  float: right;
 }
 
 .view-news-lenta .views-row .views-field-view-node {
