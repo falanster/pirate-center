@@ -366,7 +366,11 @@ body {
 /* @endew and static pages */
 
 /*webform settings*/
-	article.node-webform {
+.page-node #zone-content-wrapper .region-content-inner {
+	width: 620px;
+}
+
+article.node-webform {
 	padding: 20px;
 }
 /*@end webform settings*/
