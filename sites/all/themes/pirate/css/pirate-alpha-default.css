@@ -1,4 +1,3 @@
-/* This file will hold styles for all layouts using the alpha grid (i.e. not the mobile layout). */
 
 body {
   font-family: Calibri;
@@ -139,10 +138,10 @@ body {
 }
 
 .contextual-links-region h1#page-title,
-#block-views-afishi-block h2.block-title,
-#block-views-afishi-block-1 h2.block-title {
+#block-views-afishi-frontpage-block h2.block-title,
+#block-views-afishi-frontpage-block-1 h2.block-title {
   color: #6f6d6d;
-  font-size: 30px !important;
+  font-size: 30px;
   font-weight: normal;
   margin-bottom: -10px;
 }
@@ -365,7 +364,11 @@ body {
 /* @endew and static pages */
 
 /*webform settings*/
-	article.node-webform {
+.page-node #zone-content-wrapper .region-content-inner {
+	width: 620px;
+}
+
+article.node-webform {
 	padding: 20px;
 }
 /*@end webform settings*/
