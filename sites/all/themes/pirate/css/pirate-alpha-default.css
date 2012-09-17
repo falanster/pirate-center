@@ -136,10 +136,11 @@ body {
 
 /* Lenta novostej */
 
-.region-content {
+.zone-content {
   margin-top: 70px;
 }
 
+.page-frontpage h1#page-title,
 .contextual-links-region h1#page-title,
 #block-views-afishi-frontpage-block h2.block-title,
 #block-views-afishi-frontpage-block-1 h2.block-title {
@@ -227,10 +228,6 @@ body {
   border: #6f6d6d 3px solid;
   width: 300px;
   margin-bottom: 45px;
-}
-
-#block-views-afishi-block {
-  margin-top: 90px;
 }
 
 #block-views-afishi-block h2.block-title,
@@ -352,7 +349,7 @@ body {
 */
 .page-node #zone-content-wrapper .region-content-inner #page-title {
   float: right;
-  margin: 24px 24px 0 0;
+  margin: 35px 24px 0 0;
   color: #3c3b3b;
   font-size: 36px;
   text-align: right;
@@ -380,10 +377,9 @@ body {
   margin-top: 0px;
 }
 h1#page-title {
-	margin: 0; 
 	text-align: left !important;
 	float: none !important;
-	font-family: 'calibri_reg' !important;
+	font-family: 'calibri_reg';
 }
 
 div.content .field-name-body {
