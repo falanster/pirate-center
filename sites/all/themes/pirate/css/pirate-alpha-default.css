@@ -207,11 +207,12 @@ body {
 .view-news-lenta .views-row .views-field-field-image {
   width: 220px;
   float: left;
-  margin: 10px 45px 10px 25px;
+ 
 }
 
 .view-news-lenta .views-row .views-field-field-image a img {
   float: left;
+  margin: 10px 45px 10px 25px;
 }
 
 .view-news-lenta .views-row .views-field-body {
@@ -460,7 +461,7 @@ h1#page-title {
 /* @end inner pages specifiv styles */
 
 /*webform settings*/
-.not-front .node-type-webform #zone-content-wrapper .region-content-inner {
+.node-type-webform #zone-content-wrapper .region-content-inner {
   width: 620px !important;
 }
 
