@@ -345,7 +345,7 @@ body {
   margin-top: 30px;
 }
 
-.page-node #zone-content-wrapper .region-content-inner {
+.page-node .context-news #zone-content-wrapper .region-content-inner {
   float: left;
   border: #6f6d6d 3px solid;
   padding: 10px 16px;
