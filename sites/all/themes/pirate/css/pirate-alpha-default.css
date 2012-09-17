@@ -131,7 +131,7 @@ body {
   margin: -107px -20px;
 }
 
-.feed-icon {
+.feed-icon a img {
   width: 19px;
   height: 19px;
   margin-right: -60px;
