@@ -215,7 +215,8 @@ body {
 
 .view-news-lenta .views-row .views-field-body {
   text-align: left;
-  margin: 110px 35px 0 0px;
+  margin-top: 110px;
+  padding: 0 40px;
 }
 
 .view-news-lenta .views-row .views-field-body .field-content {
