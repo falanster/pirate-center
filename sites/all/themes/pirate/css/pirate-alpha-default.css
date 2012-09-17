@@ -342,14 +342,14 @@ body {
 }
 
 .page-node #region-content {
-  margin-top: 15px;
+  /*margin-top: 15px;*/
 }
 
-.page-node #zone-content-wrapper .region-content-inner {
+/*.page-node #zone-content-wrapper .region-content-inner {
   float: left;
   border: #6f6d6d 3px solid;
 }
-
+*/
 .page-node #zone-content-wrapper .region-content-inner #page-title {
   float: right;
   margin: 24px 24px 0 0;
@@ -371,7 +371,28 @@ body {
   margin-top: 68px;
 }
 
+
 /* @endew and static pages */
+
+/* inner pages specific styles */
+
+h1#page-title {
+	margin: 0; 
+	text-align: left !important;
+	float: none !important;
+}
+
+div.content .field-name-body {
+	border: 3px solid #6F6D6D;
+	padding: 24px 16px;
+}
+
+div.field-name-field-date {
+	margin-left: 10px;
+	font-size: 12px;
+}
+
+/* @end inner pages specifiv styles */
 
 /*webform settings*/
 .page-node #zone-content-wrapper .region-content-inner {
