@@ -131,10 +131,16 @@ body {
   margin: -107px -20px;
 }
 
+.feed-icon {
+  width: 22px;
+  float: left;
+}
+
 .feed-icon a img {
   width: 19px;
   height: 19px;
-  margin-right: -60px;
+  margin-left: -60px;
+  margin-top: -500px;
 }
 
 /*.page-node #block-sharethis-sharethis-block .sharethis-wrapper {
