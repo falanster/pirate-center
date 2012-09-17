@@ -384,6 +384,10 @@ body {
   margin-top: 0px;
 }
 
+.not-front .contextual-links-region #zone-content-wrapper{
+  margin-top: 20px;
+}
+
 /*
 h1#page-title {
 	text-align: left !important;
