@@ -377,6 +377,7 @@ body {
 
 .page-node #block-system-main .field-name-field-open-tags {
   float: left;
+  margin-left: 35px;
 }
 
 .page-node #block-system-main .field-name-field-open-tags a,
@@ -388,8 +389,9 @@ body {
 
 .page-node #block-system-main .field-name-field-date {
   text-align: right;
-  width: 500px;
+  width: 400px;
   float: left;
+  margin-right: 10px;
 }
 
 .page-node #block-system-main .field-name-field-date span {
