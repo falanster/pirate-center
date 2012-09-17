@@ -383,6 +383,7 @@ h1#page-title {
 	margin: 0; 
 	text-align: left !important;
 	float: none !important;
+	font-family: 'calibri_reg' !important;
 }
 
 div.content .field-name-body {
