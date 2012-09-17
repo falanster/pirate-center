@@ -173,6 +173,11 @@ body {
 
 }
 
+.view-news-lenta .view-header {
+  margin-right: -30px;
+  margin-top: 200px;
+}
+
 .view-news-lenta .views-row .views-field-title {
   float: right;
   padding-right: 16px;
@@ -255,6 +260,7 @@ body {
   float: left;
   margin-bottom: 10px;
 }
+
 
 .view-afishi .views-row .views-field-title {
   float: right;
