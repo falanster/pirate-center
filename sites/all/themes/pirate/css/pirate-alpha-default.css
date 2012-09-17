@@ -203,7 +203,7 @@ body {
   font-size: 14px;
 }
 
-.view-news-lenta .views-row .views-field-field-image {
+.view-news-lenta .views-row .views-field-field-image .field-content {
   float: left; 
   padding: 10px 25px 25px 25px;
 }
