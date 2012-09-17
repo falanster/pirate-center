@@ -206,13 +206,15 @@ body {
 
 .view-news-lenta .views-row .views-field-field-image {
   width: 220px;
-  float: left;
- 
+  float: left; 
+}
+
+.view-news-lenta .views-row .views-field-field-image .field-content {
+  margin: 10px 45px 10px 25px;
 }
 
 .view-news-lenta .views-row .views-field-field-image a img {
   float: left;
-  margin: 10px 45px 10px 25px;
 }
 
 .view-news-lenta .views-row .views-field-body {
