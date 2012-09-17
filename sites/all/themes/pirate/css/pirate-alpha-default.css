@@ -389,6 +389,7 @@ body {
 .page-node #block-system-main .field-name-field-date {
   text-align: right;
   width: 300px;
+  float: left;
 }
 
 .page-node #block-system-main .field-name-field-date span {
@@ -397,7 +398,7 @@ body {
 }
 
 .page-node #block-system-main .field-name-field-autor {
-  float: right;
+ 
 }
 
 .page-node #block-system-main .field-name-body {
