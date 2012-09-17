@@ -131,6 +131,12 @@ body {
   margin: -107px -20px;
 }
 
+.feed-icon {
+  width: 19px;
+  height: 19px;
+  margin-right: -60px;
+}
+
 /*.page-node #block-sharethis-sharethis-block .sharethis-wrapper {
   margin-top: -140px;
 } */
@@ -389,7 +395,7 @@ body {
 
 .page-node #block-system-main .field-name-field-date {
   text-align: right;
-  width: 400px;
+  width: 430px;
   float: left;
   margin-right: 10px;
 }
