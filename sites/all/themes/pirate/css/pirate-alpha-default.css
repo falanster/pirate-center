@@ -405,7 +405,7 @@ h1#page-title {
 /* @end inner pages specifiv styles */
 
 /*webform settings*/
-.node-type-webform #zone-content-wrapper .region-content-inner {
+.page-node .node-type-webform #zone-content-wrapper .region-content-inner {
 	width: 620px;
 }
 
