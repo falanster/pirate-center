@@ -183,7 +183,7 @@ body {
 
 .view-news-lenta .views-row .views-field-title span a{
   text-decoration: none;
-  font-size: 34px;
+  font-size: 32px;
   color: #3c3b3b;
   float: right;
   line-height: 1;
@@ -200,6 +200,7 @@ body {
 
 .view-news-lenta .views-row .views-field-field-date span {
   color: #8c8b8c;
+  font-size: 14px;
 }
 
 .view-news-lenta .views-row .views-field-field-image {
