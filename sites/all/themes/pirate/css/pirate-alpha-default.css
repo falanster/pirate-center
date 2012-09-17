@@ -132,8 +132,8 @@ body {
 }
 
 .feed-icon {
-  width: 22px;
-  float: left;
+  position: absolute;
+  top: 100px;
 }
 
 .feed-icon a img {
@@ -457,7 +457,7 @@ h1#page-title {
 .node-type-webform div.field-name-field-date {
 	margin-left: 10px;
 	font-size: 12px;
-}*/
+}
 
 /* @end inner pages specifiv styles */
 
