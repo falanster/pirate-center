@@ -136,8 +136,8 @@ body {
 
 /* Lenta novostej */
 
-#region-content {
-  margin-top: 90px;
+.region-content {
+  margin-top: 70px;
 }
 
 .contextual-links-region h1#page-title,
@@ -331,7 +331,7 @@ body {
 }
 
 .breadcrumb {
-  margin-top: 75px; 
+  margin-top: 15px; 
   margin-bottom: -60px;
 }
 
@@ -376,6 +376,9 @@ body {
 
 /* inner pages specific styles */
 
+#region-content {
+  margin-top: 0px;
+}
 h1#page-title {
 	margin: 0; 
 	text-align: left !important;
