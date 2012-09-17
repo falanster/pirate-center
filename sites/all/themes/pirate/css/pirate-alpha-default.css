@@ -104,7 +104,6 @@ body {
 /* Sharethis block */
 
 .page-frontpage #block-sharethis-sharethis-block,
-.page-node #block-sharethis-sharethis-block,
 .not-front #block-sharethis-sharethis-block {
   float: left;
 }
@@ -114,7 +113,6 @@ body {
 }
 
 .page-frontpage #block-sharethis-sharethis-block .sharethis-wrapper,
-.page-node #block-sharethis-sharethis-block .sharethis-wrapper,
 .not-front #block-sharethis-sharethis-block .sharethis-wrapper {
   width: 38px;
   margin-left: -60px;
@@ -126,6 +124,10 @@ body {
 .page-node #block-sharethis-sharethis-block .sharethis-wrapper span,
 .not-front #block-sharethis-sharethis-block .sharethis-wrapper span {
   margin-top: 3px;
+}
+
+.page-node #block-sharethis-sharethis-block {
+  float: left;
 }
 
 .page-node #block-sharethis-sharethis-block .sharethis-wrapper {
