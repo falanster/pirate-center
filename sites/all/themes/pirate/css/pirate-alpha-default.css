@@ -342,11 +342,11 @@ body {
   /*margin-top: 15px;*/
 }
 
-/*.page-node #zone-content-wrapper .region-content-inner {
+.page-node #zone-content-wrapper .region-content-inner {
   float: left;
   border: #6f6d6d 3px solid;
 }
-*/
+
 .page-node #zone-content-wrapper .region-content-inner #page-title {
   float: right;
   margin: 35px 24px 0 0;
@@ -382,14 +382,10 @@ h1#page-title {
 	text-align: left !important;
 	float: none !important;
 	font-family: 'calibri_reg';
-}*/
-
-.region-content-inner {
-  border: 3px solid #6F6D6D;
-  padding: 24px 16px;
 }
 
-/*div.content .field-name-body {
+
+div.content .field-name-body {
 	border: 3px solid #6F6D6D;
 	padding: 24px 16px;
 }
