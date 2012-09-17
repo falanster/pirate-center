@@ -462,7 +462,7 @@ h1#page-title {
 /* @end inner pages specifiv styles */
 
 /*webform settings*/
-.page-node .node-type-webform #zone-content-wrapper .region-content-inner {
+.not-front .node-type-webform #zone-content-wrapper .region-content-inner {
   width: 620px !important;
 }
 
