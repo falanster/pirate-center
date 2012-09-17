@@ -133,14 +133,14 @@ body {
 
 .feed-icon {
   position: absolute;
-  top: 100px;
+  top: 90px;
+  background: url(.../sites/default/files/afishi/rss2.png);
 }
 
 .feed-icon a img {
   width: 19px;
   height: 19px;
   margin-left: -60px;
-  margin-top: -500px;
 }
 
 /*.page-node #block-sharethis-sharethis-block .sharethis-wrapper {
