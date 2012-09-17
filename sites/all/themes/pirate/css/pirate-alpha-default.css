@@ -328,7 +328,6 @@ body {
 }
 
 .breadcrumb {
-  margin-top: 15px; 
   margin-bottom: -60px;
 }
 
@@ -339,13 +338,13 @@ body {
 }
 
 .page-node #region-content {
-  margin-top: 15px;
+  margin-top: 30px;
 }
 
 .page-node #zone-content-wrapper .region-content-inner {
   float: left;
   border: #6f6d6d 3px solid;
-  padding: 24px 16px;
+  padding: 10px 16px;
 }
 
 .page-node #zone-content-wrapper .region-content-inner #page-title {
