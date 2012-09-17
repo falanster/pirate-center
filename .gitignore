@@ -1,2 +1,6 @@
 settings.php
 
+/nbproject/private/
+nbproject
+nbproject/*
+
