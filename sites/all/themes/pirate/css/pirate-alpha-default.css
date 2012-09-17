@@ -108,9 +108,9 @@ body {
   float: left;
 }
 
-.page-node #block-sharethis-sharethis-block {
+/* .page-node #block-sharethis-sharethis-block {
   margin-top: 55px;
-}
+} */
 
 .page-frontpage #block-sharethis-sharethis-block .sharethis-wrapper,
 .not-front #block-sharethis-sharethis-block .sharethis-wrapper {
@@ -130,9 +130,9 @@ body {
   float: left;
 }
 
-.page-node #block-sharethis-sharethis-block .sharethis-wrapper {
+/*.page-node #block-sharethis-sharethis-block .sharethis-wrapper {
   margin-top: -140px;
-}
+} */
 
 /* @end sharethis block */
 
