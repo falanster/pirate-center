@@ -210,11 +210,12 @@ body {
 }
 
 .view-news-lenta .views-row .views-field-field-image .field-content {
-  margin: 10px 45px 10px 25px;
+
 }
 
 .view-news-lenta .views-row .views-field-field-image a img {
   float: left;
+  margin: 10px 45px 10px 25px;
 }
 
 .view-news-lenta .views-row .views-field-body {
@@ -226,6 +227,7 @@ body {
 .view-news-lenta .views-row .views-field-body .field-content {
   color: #3d3d3d;
   font-size: 16px;
+  margin-left: 40px;
 }
 
 .view-news-lenta .views-row .views-field-view-node {
