@@ -406,10 +406,7 @@ h1#page-title {
 
 /*webform settings*/
 .page-node .node-type-webform #zone-content-wrapper .region-content-inner {
-  width: 620px;
-  float: left;
-  border: #6f6d6d 3px solid;
-  padding: 10px 16px;
+  width: 620px !important;
 }
 
 article.node-webform {
