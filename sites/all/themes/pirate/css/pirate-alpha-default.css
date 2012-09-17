@@ -345,7 +345,9 @@ body {
   float: left;
   border: #6f6d6d 3px solid;
   padding: 10px 16px;
+  width: 700px;
 }
+
 
 .page-node #zone-content-wrapper .region-content-inner #page-title {
   float: right;
@@ -398,7 +400,7 @@ div.field-name-field-date {
 /* @end inner pages specifiv styles */
 
 /*webform settings*/
-.page-node #zone-content-wrapper .region-content-inner {
+.node-type-webform #zone-content-wrapper .region-content-inner {
 	width: 620px;
 }
 
