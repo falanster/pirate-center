@@ -183,10 +183,10 @@ body {
 
 .view-news-lenta .views-row .views-field-title span a{
   text-decoration: none;
-  font-size: 36px;
+  font-size: 34px;
   color: #3c3b3b;
   float: right;
-  line-height: 1.1;
+  line-height: 1;
   text-align: right;
   width: 80%;
 }
@@ -265,11 +265,11 @@ body {
   margin-right: 15px;
   clear: left; 
   text-align: right;
-  width: 200px;
+  width: 250px;
 }
 
 .view-afishi .views-row .views-field-title a{
-  font-size: 24px;
+  font-size: 22px;
   color: #3c3b3b;
   text-decoration: none;
   line-height: 1;
@@ -292,7 +292,7 @@ body {
 
 .view-afishi .views-row .views-field-body .field-content {
   color: #3d3d3d;
-  font-size: 12px;
+  font-size: 14px;
 }
 .view-afishi .views-row .views-field-field-autor {
   float: left;
@@ -327,7 +327,7 @@ body {
 
 #block-menu-menu-footer-menu ul li a{
   color: #dedede;
-  font-size: 12px;
+  font-size: 14px;
   text-decoration: none;
 }
 
