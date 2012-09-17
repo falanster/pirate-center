@@ -128,7 +128,7 @@ body {
 
 .page-node #block-sharethis-sharethis-block {
   float: left;
-  margin: -107px -20px 0 0;
+  margin: -107px -20px;
 }
 
 /*.page-node #block-sharethis-sharethis-block .sharethis-wrapper {
