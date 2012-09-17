@@ -137,9 +137,7 @@ body {
 }
 
 .feed-icon a img {
-  width: 32px;
-  height: 32px;
-  margin-left: -55px;
+  display: none; 
 }
 
 /*.page-node #block-sharethis-sharethis-block .sharethis-wrapper {
@@ -174,8 +172,9 @@ body {
 }
 
 .view-news-lenta .view-header {
-  margin-right: -30px;
-  margin-top: 200px;
+  float: left;
+  margin-left: -55px;
+  margin-top: 160px;
 }
 
 .view-news-lenta .views-row .views-field-title {
