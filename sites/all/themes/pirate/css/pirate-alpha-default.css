@@ -345,7 +345,7 @@ body {
   margin-top: 30px;
 }
 
-.page-node .context-news #zone-content-wrapper .region-content-inner {
+.page-node #zone-content-wrapper .region-content-inner {
   float: left;
   border: #6f6d6d 3px solid;
   padding: 10px 16px;
@@ -354,7 +354,7 @@ body {
 }
 
 
-.page-node .context-news #zone-content-wrapper .region-content-inner #page-title {
+.page-node #zone-content-wrapper .region-content-inner #page-title {
   float: right;
   margin: 35px 24px 0 0;
   color: #3c3b3b;
