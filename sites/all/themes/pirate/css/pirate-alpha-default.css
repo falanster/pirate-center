@@ -134,7 +134,7 @@ body {
 .feed-icon {
   position: absolute;
   top: 90px;
-  background: url(.../sites/default/files/afishi/rss2.png);
+  background: url(/sites/default/files/afishi/rss2.png) no-repeat;
 }
 
 .feed-icon a img {
