@@ -335,7 +335,7 @@ body {
   text-decoration: none;
 }
 
-.region-footer-first-inner {
+#block-menu-menu-footer-menu .content {
   height: 30px;
   background: red;
 }
