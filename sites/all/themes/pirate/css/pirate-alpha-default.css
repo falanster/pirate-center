@@ -469,9 +469,9 @@ h1#page-title {
 /* @end inner pages specifiv styles */
 
 /*webform settings*/
-.node-type-webform #zone-content-wrapper .region-content-inner {
+/*.node-type-webform #zone-content-wrapper .region-content-inner {
   width: 620px !important;
-}
+} */
 
 article.node-webform {
 	padding: 20px;
