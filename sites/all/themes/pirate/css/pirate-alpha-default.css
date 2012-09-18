@@ -38,6 +38,11 @@ body {
   margin-right: -10px;
 }
 
+#block-block-4 {
+  position: relative;
+  z-index: 999;
+}
+
 #block-block-4 a img {
   margin-top: 10px;
   margin-right: -10px;
@@ -78,6 +83,8 @@ body {
 #block-menu-menu-main-menu {
   float: right;
   margin: 10px -40px 0px 0px;
+  position: relative;
+  z-index: 20;
 }
 
 #block-menu-menu-main-menu li {
