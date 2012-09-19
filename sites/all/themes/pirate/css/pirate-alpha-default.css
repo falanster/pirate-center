@@ -121,10 +121,13 @@ body {
 
 .page-frontpage #block-sharethis-sharethis-block .sharethis-wrapper,
 .not-front #block-sharethis-sharethis-block .sharethis-wrapper {
-  width: 38px;
+  width: 38px;  
   margin-left: -60px;
   float: left;
   border: #6f6d6d 2px solid;
+}
+.front #block-sharethis-sharethis-block .sharethis-wrapper {
+  height: 175px;
 }
 
 .page-frontpage #block-sharethis-sharethis-block .sharethis-wrapper span,
@@ -477,3 +480,19 @@ article.node-webform {
 	padding: 20px;
 }
 /*@end webform settings*/
+
+/*pages style*/
+.pager .pager-current {
+  font-size: 15px;
+  color: #393939;
+}
+
+.pager li {
+  padding: 0;
+  margin: 0 0 7px 0;
+}
+
+.pager a {
+  color: #3D3D3D;
+  font-size: 13px;
+}
