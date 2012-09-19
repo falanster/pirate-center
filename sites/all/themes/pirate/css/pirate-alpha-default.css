@@ -389,7 +389,8 @@ body {
   margin-top: 30px;
 }
 
-.page-node #zone-content-wrapper .region-content-inner {
+.page-node #zone-content-wrapper .region-content-inner,
+.not-logged-in #zone-content-wrapper .region-content-inner {
   border: #6f6d6d 3px solid;
   padding: 10px 16px;
   margin-top: 20px;
