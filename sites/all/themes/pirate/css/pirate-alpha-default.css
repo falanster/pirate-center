@@ -131,6 +131,10 @@ body {
   height: 175px;
 }
 
+.not-front .page-node #block-sharethis-sharethis-block .sharethis-wrapper {
+  height: 130px;
+}
+
 .page-frontpage #block-sharethis-sharethis-block .sharethis-wrapper span,
 .page-node #block-sharethis-sharethis-block .sharethis-wrapper span,
 .not-front #block-sharethis-sharethis-block .sharethis-wrapper span {
@@ -162,6 +166,7 @@ body {
 .zone-content {
   margin-top: 70px;
 }
+
 
 .page-frontpage h1#page-title,
 .contextual-links-region h1#page-title,
