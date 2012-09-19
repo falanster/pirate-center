@@ -129,6 +129,8 @@ body {
 .front #block-sharethis-sharethis-block .sharethis-wrapper,
 .not-front #block-sharethis-sharethis-block .sharethis-wrapper {
   height: 175px;
+  position: relative;
+  z-index: 999;
 }
 
 .page-node #block-sharethis-sharethis-block .sharethis-wrapper {
