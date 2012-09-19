@@ -427,13 +427,15 @@ body {
   color: #8c8b8c;
 }
 
-.page-node #block-system-main .field-name-field-date {
+.page-node #block-system-main .field-name-field-date,
+.page-node #block-system-main .field-name-field-event {
   text-align: right;
   float: right;
   margin-right: 25px;
 }
 
-.page-node #block-system-main .field-name-field-date span {
+.page-node #block-system-main .field-name-field-date span,
+.page-node #block-system-main .field-name-field-event span {
   font-size: 18px;
   color: #8c8b8c;
 }
