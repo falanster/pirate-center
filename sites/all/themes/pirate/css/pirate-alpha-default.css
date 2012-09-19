@@ -129,8 +129,7 @@ body {
 .front #block-sharethis-sharethis-block .sharethis-wrapper,
 .not-front #block-sharethis-sharethis-block .sharethis-wrapper {
   height: 175px;
-  position: relative;
-  z-index: 999;
+
 }
 
 .page-node #block-sharethis-sharethis-block .sharethis-wrapper {
@@ -199,6 +198,8 @@ body {
   float: left;
   margin-left: -55px;
   margin-top: 140px;
+  position: relative;
+  z-index: 999;
 }
 
 .view-news-lenta .views-row .views-field-title {
