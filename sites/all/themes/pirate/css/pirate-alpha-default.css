@@ -482,17 +482,17 @@ article.node-webform {
 /*@end webform settings*/
 
 /*pages style*/
-.pager .pager-current {
+#page ul.pager .pager-current {
   font-size: 15px;
   color: #393939;
 }
 
-.pager li {
+#page ul.pager li {
   padding: 0;
   margin: 0 0 7px 0;
 }
 
-.pager a {
+#page ul.pager a {
   color: #3D3D3D;
   font-size: 13px;
 }
