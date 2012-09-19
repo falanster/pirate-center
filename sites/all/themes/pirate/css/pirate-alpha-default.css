@@ -146,6 +146,11 @@ body {
   margin: -107px -20px;
 }
 
+.node-type-blog #block-sharethis-sharethis-block {
+  margin-top: -160px;
+}
+
+
 .feed-icon {
   position: absolute;
   top: 90px;
