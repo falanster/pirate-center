@@ -492,7 +492,11 @@ article.node-webform {
   margin: 0 0 7px 0;
 }
 
-#page ul.pager a {
+#page ul.pager li a {
   color: #3D3D3D;
   font-size: 13px;
+  text-decoration: none;
+}
+#page ul.pager li a:hover {
+  text-decoration: underline;
 }
