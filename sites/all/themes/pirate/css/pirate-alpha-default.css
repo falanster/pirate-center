@@ -176,6 +176,7 @@ body {
 .view-news-lenta .views-row {
   border: #6f6d6d 3px solid;
   margin-bottom: 35px;
+  padding: 0 0 25px 0;
   float: left;
   width: 620px;
 
@@ -219,7 +220,7 @@ body {
 
 .view-news-lenta .views-row .views-field-field-image a img {
   float: left;
-  margin: 10px 25px 25px 25px;
+  margin: 10px 25px 0px 25px;
 
 }
 
@@ -483,7 +484,7 @@ article.node-webform {
 
 /*pages style*/
 #page ul.pager .pager-current {
-  font-size: 15px;
+  font-size: 16px;
   color: #393939;
 }
 
@@ -500,3 +501,4 @@ article.node-webform {
 #page ul.pager li a:hover {
   text-decoration: underline;
 }
+
