@@ -126,7 +126,8 @@ body {
   float: left;
   border: #6f6d6d 2px solid;
 }
-.front #block-sharethis-sharethis-block .sharethis-wrapper {
+.front #block-sharethis-sharethis-block .sharethis-wrapper,
+.not-front #block-sharethis-sharethis-block .sharethis-wrapper {
   height: 175px;
 }
 
