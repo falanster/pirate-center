@@ -136,7 +136,7 @@ body {
   width: 130px;
 }
 
-.page-user .page-title {
+.page-user #page-title {
   padding: 0 0 20px 0;
 }
 
