@@ -187,7 +187,7 @@ ul.tabs {
   width: 94%;
 }
 
-div.tabs {
+.not-logged-in div.tabs {
   float: left;
   width: 97%;
 }
