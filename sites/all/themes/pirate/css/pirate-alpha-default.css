@@ -100,6 +100,13 @@ body {
   font-size: 14px;
 }
 
+#block-menu-menu-main-menu li a:hover {
+  opacity: 0.5;
+  border-radius: 12px;
+  border: #FFFFFF solid 1px;
+  padding: 2px 6px;
+}
+
 #block-menu-menu-main-menu li a.active {
   border-radius: 12px;
   border: #FFFFFF solid 1px;
