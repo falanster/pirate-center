@@ -133,7 +133,8 @@ body {
 }
 
 .page-node #block-sharethis-sharethis-block .sharethis-wrapper,
-.logged-in .page-user #block-sharethis-sharethis-block .sharethis-wrapper {
+.logged-in .page-user #block-sharethis-sharethis-block .sharethis-wrapper,
+.not-logged-in .page-user #block-sharethis-sharethis-block .sharethis-wrapper {
   height: 130px;
   margin-top: -98px;
 }
@@ -149,7 +150,8 @@ body {
 }
 
 .page-node #block-sharethis-sharethis-block,
-.page-user #block-sharethis-sharethis-block {
+.logged-in .page-user #block-sharethis-sharethis-block,
+.not-logged-in .page-user #block-sharethis-sharethis-block {
   float: left;
   margin-top: -13px;
   margin-left: -20px;
