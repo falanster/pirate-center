@@ -132,6 +132,9 @@ body {
 
 }
 
+<<<<<<< HEAD
+.page-node #block-sharethis-sharethis-block .sharethis-wrapper {
+=======
 .page-user #block-sharethis-sharethis-block .sharethis-wrapper {
   width: 130px;
 }
@@ -142,18 +145,8 @@ body {
 
 .page-node #block-sharethis-sharethis-block .sharethis-wrapper,
 .page-user #block-sharethis-sharethis-block .sharethis-wrapper {
+>>>>>>> 41f1d6e1d6c3c2b3847f3a37edc1cce01ce85a48
   height: 130px;
-  margin-top: -98px;
-}
-
-.not-logged-in .page-user #block-sharethis-sharethis-block {
-  margin-top: -58px;
-}
-
-.page-frontpage #block-sharethis-sharethis-block .sharethis-wrapper span,
-.page-node #block-sharethis-sharethis-block .sharethis-wrapper span,
-.not-front #block-sharethis-sharethis-block .sharethis-wrapper span {
-  margin-top: 3px;
 }
 
 .page-node #block-sharethis-sharethis-block {
@@ -161,6 +154,12 @@ body {
   margin-top: -13px;
   margin-left: -20px;
 /*  margin: -107px -20px; */
+}
+
+.page-frontpage #block-sharethis-sharethis-block .sharethis-wrapper span,
+.page-node #block-sharethis-sharethis-block .sharethis-wrapper span,
+.not-front #block-sharethis-sharethis-block .sharethis-wrapper span {
+  margin-top: 3px;
 }
 
 
