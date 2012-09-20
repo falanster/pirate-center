@@ -143,7 +143,8 @@ body {
   margin-top: 3px;
 }
 
-.page-node #block-sharethis-sharethis-block {
+.page-node #block-sharethis-sharethis-block,
+.page-user #block-sharethis-sharethis-block {
   float: left;
   margin-top: -13px;
   margin-left: -20px;
