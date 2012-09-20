@@ -138,6 +138,10 @@ body {
   margin-top: -98px;
 }
 
+.not-logged-in .page-user #block-sharethis-sharethis-block .sharethis-wrapper {
+  margin-top: -58px;
+}
+
 .page-frontpage #block-sharethis-sharethis-block .sharethis-wrapper span,
 .page-node #block-sharethis-sharethis-block .sharethis-wrapper span,
 .not-front #block-sharethis-sharethis-block .sharethis-wrapper span {
