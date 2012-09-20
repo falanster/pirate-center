@@ -531,3 +531,9 @@ article.node-webform {
   text-decoration: underline;
 }
 
+
+/*serveices tabs for admin mode*/
+ul.tabs {
+  float:left;
+  width: 100%;
+}
