@@ -100,6 +100,13 @@ body {
   font-size: 14px;
 }
 
+#block-menu-menu-main-menu li a.active {
+  border-radius: 12px;
+  border: #FFFFFF solid 1px;
+  padding: 2px 4px;
+}
+
+
 /* @end main menu */
 
 
@@ -178,11 +185,6 @@ div.tabs {
 .page-node #block-sharethis-sharethis-block .sharethis-wrapper span,
 .not-front #block-sharethis-sharethis-block .sharethis-wrapper span {
   margin-top: 3px;
-}
-
-
-.page-user #block-sharethis-sharethis-block {
-  display: none;
 }
 
 .feed-icon {
@@ -463,11 +465,26 @@ div.tabs {
   margin-top: 30px;
 }
 
+.page-node-20 #block-views-afishi-block,
+.page-node-20 #block-views-afishi-block-1 {
+  float: left;
+  width: 320px;
+  margin-top: 16px;
+  margin-bottom: -20px;
+}
+
+
 .page-user #block-block-5,
 .page-node #block-block-5 {
   float: right;
   margin-top: 72px;
 }
+
+.page-node-20 #block-block-5 {
+  margin-top: 15px;
+  float: right;
+}
+
 
 .page-node #block-system-main .field-name-field-open-tags {
   float: left;
