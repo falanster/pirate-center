@@ -132,6 +132,10 @@ body {
 
 }
 
+.page-user #block-sharethis-sharethis-block .sharethis-wrapper {
+  width: 130px;
+}
+
 .page-node #block-sharethis-sharethis-block .sharethis-wrapper,
 .page-user #block-sharethis-sharethis-block .sharethis-wrapper {
   height: 130px;
@@ -411,13 +415,13 @@ body {
 }
 
 .page-user .region-content-inner {
-  margin-top: 32px;
+  margin-top: 33px;
 }
 
 
 .page-node #zone-content-wrapper .region-content-inner #page-title {
   float: right;
-  margin: 25px 24px 0 0;
+  margin: 15px 24px 0 0;
   color: #3c3b3b;
   font-size: 36px;
   text-align: right;
@@ -553,5 +557,5 @@ article.node-webform {
 /*serveices tabs for admin mode*/
 ul.tabs {
   float:left;
-  width: 90%;
+  width: 94%;
 }
