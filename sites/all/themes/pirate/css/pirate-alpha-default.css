@@ -148,17 +148,25 @@ body {
 }
 
 .page-node #block-sharethis-sharethis-block {
-  position: relative;
-  z-index: 999;
-  float: left;
-  margin-top: -13px;
-  margin-left: -20px;
-/*  margin: -107px -20px; */
+  left: -50px;
+  position: absolute;
+  top: 20px;
 }
 
 .page-node .tabs {
   position: relative;
   z-index: 1;
+  float: left;
+  width: 95%;
+  margin: 0 15px;
+}
+ul.tabs {
+  float:left;
+  width: 94%;
+}
+
+div.tabs {
+  float: left;
 }
 
 .page-frontpage #block-sharethis-sharethis-block .sharethis-wrapper span,
@@ -566,7 +574,3 @@ article.node-webform {
 
 
 /*serveices tabs for admin mode*/
-ul.tabs {
-  float:left;
-  width: 94%;
-}
