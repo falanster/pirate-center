@@ -470,7 +470,9 @@ div.tabs {
 }
 
 .page-node-20 #block-views-afishi-block,
-.page-node-20 #block-views-afishi-block-1 {
+.page-node-20 #block-views-afishi-block-1,
+.page-node-21 #block-views-afishi-block,
+.page-node-21 #block-views-afishi-block-1 {
   float: left;
   width: 320px;
   margin-top: 16px;
@@ -484,7 +486,8 @@ div.tabs {
   margin-top: 72px;
 }
 
-.page-node-20 #block-block-5 {
+.page-node-20 #block-block-5,
+.page-node-21 #block-block-5 {
   margin-top: 15px;
   float: right;
 }
