@@ -460,16 +460,18 @@ div.tabs {
   margin-bottom: -20px;
 }
 
-.page-node-20 #block-block-5 {
-  margin-top: 0px;
-  float: right;
-}
 
 .page-user #block-block-5,
 .page-node #block-block-5 {
   float: right;
   margin-top: 72px;
 }
+
+.page-node-20 #block-block-5 {
+  margin-top: 0px;
+  float: right;
+}
+
 
 .page-node #block-system-main .field-name-field-open-tags {
   float: left;
