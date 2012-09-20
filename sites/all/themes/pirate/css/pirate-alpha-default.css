@@ -133,7 +133,7 @@ body {
 }
 
 .page-node #block-sharethis-sharethis-block .sharethis-wrapper,
-.page-user #block-sharethis-sharethis-block .sharethis-wrapper {
+.logged-in .page-user #block-sharethis-sharethis-block .sharethis-wrapper {
   height: 130px;
   margin-top: -98px;
 }
