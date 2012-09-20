@@ -101,9 +101,9 @@ body {
 }
 
 #block-menu-menu-main-menu li a.active {
-  border-radius: 8px;
+  border-radius: 12px;
   border: #FFFFFF solid 1px;
-  padding: 2px;
+  padding: 2px 4px;
 }
 
 
