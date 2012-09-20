@@ -136,6 +136,10 @@ body {
   width: 130px;
 }
 
+.page-user .page-title {
+  padding: 0 0 20px 0;
+}
+
 .page-node #block-sharethis-sharethis-block .sharethis-wrapper,
 .page-user #block-sharethis-sharethis-block .sharethis-wrapper {
   height: 130px;
