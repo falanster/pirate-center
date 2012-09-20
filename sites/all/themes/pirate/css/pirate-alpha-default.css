@@ -171,6 +171,10 @@ body {
   margin-top: 70px;
 }
 
+.title_container {
+  float: left;
+  witdh: 100%;
+}
 
 .page-frontpage h1#page-title,
 .contextual-links-region h1#page-title,
@@ -389,14 +393,14 @@ body {
 
 .page-node #zone-content-wrapper .region-content-inner {
   border: #6f6d6d 3px solid;
-  padding: 10px 16px;
+  padding: 10px 16px 25px;
   margin-top: 20px;
 }
 
 
 .page-node #zone-content-wrapper .region-content-inner #page-title {
   float: right;
-  margin: 35px 24px 0 0;
+  margin: 25px 24px 0 0;
   color: #3c3b3b;
   font-size: 36px;
   text-align: right;
