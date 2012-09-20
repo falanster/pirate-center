@@ -90,6 +90,7 @@ body {
 #block-menu-menu-main-menu ul {
   text-align: right;
   margin-right: 85px;
+  margin-top: -10px;
 }
 
 #block-menu-menu-main-menu li {
