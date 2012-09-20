@@ -156,7 +156,7 @@ body {
 /*  margin: -107px -20px; */
 }
 
-.page-node .tabs {
+.page-node .clearfix {
   position: relative;
   z-index: 1;
 }
