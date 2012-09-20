@@ -432,6 +432,8 @@ body {
   width: 90%;
 }
 
+.page-user #block-views-afishi-block,
+.page-user #block-views-afishi-block-1,
 .page-node #block-views-afishi-block,
 .page-node #block-views-afishi-block-1 {
   float: left;
@@ -443,6 +445,7 @@ body {
   margin-top: 30px;
 }
 
+.page-user #block-block-5,
 .page-node #block-block-5 {
   float: right;
   margin-top: 72px;
