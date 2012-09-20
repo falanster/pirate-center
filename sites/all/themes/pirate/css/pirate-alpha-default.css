@@ -156,6 +156,11 @@ body {
 /*  margin: -107px -20px; */
 }
 
+.tabs {
+  position: relative;
+  z-index: 1;
+}
+
 .page-frontpage #block-sharethis-sharethis-block .sharethis-wrapper span,
 .page-node #block-sharethis-sharethis-block .sharethis-wrapper span,
 .not-front #block-sharethis-sharethis-block .sharethis-wrapper span {
