@@ -132,10 +132,11 @@ body {
 
 }
 
+/*
 .page-node #block-sharethis-sharethis-block .sharethis-wrapper,
 .page-user #block-sharethis-sharethis-block .sharethis-wrapper {
   width: 130px;
-}
+} */
 
 .page-user #page-title {
   padding: 0 0 20px 0;
@@ -147,10 +148,17 @@ body {
 }
 
 .page-node #block-sharethis-sharethis-block {
+  position: relative;
+  z-index: 999;
   float: left;
   margin-top: -13px;
   margin-left: -20px;
 /*  margin: -107px -20px; */
+}
+
+.tabs {
+  position: relative;
+  z-index: 1;
 }
 
 .page-frontpage #block-sharethis-sharethis-block .sharethis-wrapper span,
