@@ -100,6 +100,12 @@ body {
   font-size: 14px;
 }
 
+#block-menu-menu-main-menu li a.active {
+  border-radius: 5px;
+  border: #FFFFFF solid 1px;
+}
+
+
 /* @end main menu */
 
 
