@@ -171,7 +171,7 @@ body {
 /* Lenta novostej */
 
 .zone-content {
-  margin-top: 70px;
+  margin-top: 40px;
 }
 
 .title_container {
@@ -403,6 +403,10 @@ body {
   margin-top: 20px;
 }
 
+.page-user .region-content-inner {
+  margin-top: 32px;
+}
+
 
 .page-node #zone-content-wrapper .region-content-inner #page-title {
   float: right;
@@ -541,5 +545,5 @@ article.node-webform {
 /*serveices tabs for admin mode*/
 ul.tabs {
   float:left;
-  width: 100%;
+  width: 90%;
 }
