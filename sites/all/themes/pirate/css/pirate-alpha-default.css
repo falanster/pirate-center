@@ -148,7 +148,7 @@ body {
 }
 
 .page-node #block-sharethis-sharethis-block {
-  left: -50px;
+  left: 10px;
   position: absolute;
   top: 20px;
 }
