@@ -403,7 +403,7 @@ body {
 }
 
 .page-user .region-content-inner {
-  margin-top: 30px;
+  margin-top: 32px;
 }
 
 
@@ -544,5 +544,5 @@ article.node-webform {
 /*serveices tabs for admin mode*/
 ul.tabs {
   float:left;
-  width: 100%;
+  width: 90%;
 }
