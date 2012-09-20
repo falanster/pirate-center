@@ -374,6 +374,10 @@ div.tabs {
   margin-left: 17px;
 }
 
+.not-logged-in #block-views-afishi-block {
+  margin-top: 30px;
+}
+
 /* @end afishi i kolonki */
 
 
