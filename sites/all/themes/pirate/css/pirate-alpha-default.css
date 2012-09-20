@@ -153,6 +153,11 @@ body {
   top: 20px;
 }
 
+.page-user .block-system {
+  width: 98%;
+  float: left;
+}
+
 .page-node .tabs {
   position: relative;
   z-index: 1;
@@ -432,6 +437,7 @@ div.tabs {
 
 .page-user .region-content-inner {
   margin-top: 33px;
+  float: left;
 }
 
 
