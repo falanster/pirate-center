@@ -376,13 +376,13 @@ body {
   font-family: Calibri;
 }
 
-.breadcrumb {
+#breadcrumb {
   margin-bottom: -60px;
   float: left;
   width: 100%;
 }
 
-.breadcrumb a {
+#breadcrumb a {
   color: #3d3d3d;
   font-size: 14px;
   text-decoration: none;
