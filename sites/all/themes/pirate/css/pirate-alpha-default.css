@@ -156,7 +156,7 @@ body {
 /*  margin: -107px -20px; */
 }
 
-.tabs {
+.page-node .tabs {
   position: relative;
   z-index: 1;
 }
