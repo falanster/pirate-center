@@ -133,10 +133,6 @@ body {
   margin-left: -10px;
 }
 
-/* .page-node #block-sharethis-sharethis-block {
-  margin-top: 55px;
-} */
-
 .page-frontpage #block-sharethis-sharethis-block .sharethis-wrapper,
 .not-front #block-sharethis-sharethis-block .sharethis-wrapper {
   width: 38px;  
@@ -149,12 +145,6 @@ body {
   height: 175px;
   width: 40px;
 }
-
-/*
-.page-node #block-sharethis-sharethis-block .sharethis-wrapper,
-.page-user #block-sharethis-sharethis-block .sharethis-wrapper {
-  width: 130px;
-} */
 
 .page-user #page-title {
   padding: 0 0 20px 0;
@@ -197,11 +187,6 @@ ul.tabs {
 .page-node #block-sharethis-sharethis-block .sharethis-wrapper span,
 .not-front #block-sharethis-sharethis-block .sharethis-wrapper span {
   margin-top: 3px;
-}
-
-.feed-icon {
-  position: absolute;
-  top: 90px;
 }
 
 .feed-icon a img {
@@ -248,7 +233,7 @@ ul.tabs {
 
 .view-news-lenta .view-header {
   float: left;
-  margin-left: -55px;
+  margin-left: -65px;
   margin-top: 140px;
   position: relative;
   z-index: 999;
