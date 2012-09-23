@@ -348,7 +348,8 @@ ul.tabs {
   margin-right: 15px;
   clear: left; 
   text-align: right;
-  width: 265px;
+  width: 90%;
+  padding-bottom: 10px;
 }
 
 .view-afishi .views-row .views-field-title a{
@@ -365,7 +366,6 @@ ul.tabs {
 
 .view-afishi .views-row .views-field-body {
   padding: 0 15px;
-  margin-top: 7px;
 }
 
 .view-afishi .views-row .views-field-body p {
