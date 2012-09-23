@@ -364,14 +364,13 @@ ul.tabs {
 }
 
 .view-afishi .views-row .views-field-body {
-  float: left;
-  width: 155px;
+  padding: 0 15px;
   margin-top: 7px;
 }
 
 .view-afishi .views-row .views-field-body p {
-  margin-bottom: 0px;
-  width: 100%;
+/*  margin-bottom: 0px;
+  width: 100%; */
 }
 
 .view-afishi .views-row .views-field-body .field-content {
