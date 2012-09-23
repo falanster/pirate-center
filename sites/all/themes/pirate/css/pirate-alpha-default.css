@@ -130,6 +130,7 @@ body {
 .page-frontpage #block-sharethis-sharethis-block,
 .not-front #block-sharethis-sharethis-block {
   float: left;
+  margin-left: -10px;
 }
 
 /* .page-node #block-sharethis-sharethis-block {
