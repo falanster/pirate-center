@@ -236,13 +236,8 @@ ul.tabs {
   margin-left: 22px;
 }
 
-/*body:first-of-type .view-news-lenta {
-    float: left;
-	margin-top: -180px;
-} */ 
-
-.clear-block:after {
-  overflow-y: hidden; /* Removes additional space in Safari */
+.view-news-lenta {
+    float: right;
 }
 
 .view-news-lenta .views-row {
