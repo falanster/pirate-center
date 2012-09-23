@@ -236,11 +236,11 @@ ul.tabs {
   margin-left: 22px;
 }
 
-@media all and (min-width: 0) { .view-news-lenta {
+html* .view-news-lenta {
     float: left;
 	margin-top: -180px;
    }
-}
+
 
 .view-news-lenta .views-row {
   border: #6f6d6d 3px solid;
