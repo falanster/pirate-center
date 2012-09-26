@@ -3,6 +3,18 @@ body {
   font-family: Calibri;
 }
 
+a,
+a:link,
+a:visited {
+  color: #cb2323;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
 /* Header */
 #zone-branding-wrapper {
   background: #000;
