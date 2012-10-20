@@ -535,6 +535,7 @@ ul.tabs {
 
 .page-node #block-system-main .field-name-body p,
 .page-node #block-system-main .field-name-body ul,
+.page-node #block-system-main .field-name-body li,
 .page-node #block-system-main .field-name-body ol,
 .page-node #block-system-main .field-name-body div {
   font-size: 16px;
