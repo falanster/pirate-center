@@ -14,6 +14,9 @@ a:hover {
   text-decoration: underline;
 }
 
+p, div, ol, ul, li {
+  font-size: 16px;
+}
 
 /* Header */
 #zone-branding-wrapper {
