@@ -457,7 +457,6 @@ ul.tabs {
   float: left;
 }
 
-
 .page-node #zone-content-wrapper .region-content-inner #page-title {
   float: right;
   margin: 15px 24px 0 0;
@@ -486,7 +485,6 @@ ul.tabs {
   margin-bottom: -20px;
 }
 
-
 .page-user #block-block-5,
 .page-node #block-block-5 {
   float: right;
@@ -498,7 +496,6 @@ ul.tabs {
   margin-top: 15px;
   float: right;
 }
-
 
 .page-node #block-system-main .field-name-field-open-tags {
   float: left;
@@ -552,6 +549,9 @@ ul.tabs {
   margin-left: 35px;
 }
 
+.player-container {
+  margin-left: 20px;
+}
 
 /* @endew and static pages */
 
