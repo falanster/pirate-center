@@ -1,6 +1,7 @@
 
 /* Admin menu font */
 div#admin-menu ul li a {
+  font-family: Calibri, arial;
   font-size: 14px;
 }
 
