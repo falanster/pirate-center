@@ -1,4 +1,10 @@
 
+/* Admin menu font */
+div#admin-menu ul li a {
+  font-size: 14px;
+}
+
+
 body {
   font-family: Calibri;
 }
