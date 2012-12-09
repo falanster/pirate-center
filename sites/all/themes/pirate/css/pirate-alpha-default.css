@@ -562,6 +562,10 @@ ul.tabs {
   margin: -10px 0 10px 35px;
 }
 
+.page-node #block-system-main .field-name-field-file {
+  margin-left: 35px;
+}
+
 /* @endew and static pages */
 
 /* inner pages specific styles */
