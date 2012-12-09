@@ -333,7 +333,8 @@ ul.tabs {
 }
 
 #block-views-afishi-block h2.block-title,
-#block-views-afishi-block-1 h2.block-title {
+#block-views-afishi-block-1 h2.block-title,
+#block-views-afishi-block-2 h2.block-title {
   font-size: 30px;
   color: #6f6d6d;
   margin-bottom: -12px;
