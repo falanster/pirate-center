@@ -563,7 +563,7 @@ ul.tabs {
 }
 
 .page-node #block-system-main .field-name-field-file {
-  margin-left: 35px;
+  margin: 0 0 10px 35px;
 }
 
 /* @endew and static pages */
