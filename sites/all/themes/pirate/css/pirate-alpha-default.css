@@ -325,7 +325,8 @@ ul.tabs {
 /* Afishi i kolonki */
 
 #block-views-afishi-block .content,
-#block-views-afishi-block-1 .content {
+#block-views-afishi-block-1 .content,
+#block-views-afishi-block-2 .content {
   border: #6f6d6d 3px solid;
   width: 300px;
   margin-bottom: 45px;
