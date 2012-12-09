@@ -597,6 +597,10 @@ h1#page-title {
 	font-size: 12px;
 }
 
+#disqus_thread {
+  margin: 0 35px 30px;
+}
+
 /* @end inner pages specifiv styles */
 
 /*webform settings*/
