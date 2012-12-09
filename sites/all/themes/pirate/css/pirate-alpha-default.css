@@ -71,9 +71,14 @@ p, div, ol, ul, li {
 }
 
 #block-block-7 {
+  float: right;
   height: 50px;
   width: 150px;
+  position: relative;
+  z-index: 1100;
+  margin: 10px -150px 0 0;
   backgroud: red;
+  
 }
 
 
