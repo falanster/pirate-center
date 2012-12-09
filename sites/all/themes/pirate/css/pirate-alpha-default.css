@@ -76,10 +76,6 @@ p, div, ol, ul, li {
   backgroud: red;
 }
 
-#block-block-7 p {
-  position: relative;
-  z-index: 1020;
-  background: yellow;
 
 /* @end logo and sitename */
 
