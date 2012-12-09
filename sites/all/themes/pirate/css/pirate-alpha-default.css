@@ -70,6 +70,13 @@ p, div, ol, ul, li {
   margin-right: -10px;
 }
 
+#block-block-7 {
+  position: relative;
+  z-index: 1020;
+  height: 50px;
+  width: 150px;
+}
+
 /* @end logo and sitename */
 
 
