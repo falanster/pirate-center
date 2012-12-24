@@ -70,6 +70,16 @@ p, div, ol, ul, li {
   margin-right: -10px;
 }
 
+#block-block-7 {
+  float: right;
+  height: 50px;
+  width: 150px;
+  position: relative;
+  z-index: 1100;
+  margin: 10px -164px 0 0;
+}
+
+
 /* @end logo and sitename */
 
 
@@ -325,14 +335,16 @@ ul.tabs {
 /* Afishi i kolonki */
 
 #block-views-afishi-block .content,
-#block-views-afishi-block-1 .content {
+#block-views-afishi-block-1 .content,
+#block-views-afishi-block-2 .content {
   border: #6f6d6d 3px solid;
   width: 300px;
   margin-bottom: 45px;
 }
 
 #block-views-afishi-block h2.block-title,
-#block-views-afishi-block-1 h2.block-title {
+#block-views-afishi-block-1 h2.block-title,
+#block-views-afishi-block-2 h2.block-title {
   font-size: 30px;
   color: #6f6d6d;
   margin-bottom: -12px;
@@ -560,6 +572,10 @@ ul.tabs {
   margin: -10px 0 10px 35px;
 }
 
+.page-node #block-system-main .field-name-field-file {
+  margin: 0 0 10px 35px;
+}
+
 /* @endew and static pages */
 
 /* inner pages specific styles */
@@ -589,6 +605,10 @@ h1#page-title {
 .node-type-webform div.field-name-field-date {
 	margin-left: 10px;
 	font-size: 12px;
+}
+
+#disqus_thread {
+  margin: 0 35px 30px;
 }
 
 /* @end inner pages specifiv styles */
