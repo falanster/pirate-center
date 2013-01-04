@@ -644,11 +644,13 @@ article.node-webform {
 }
 
 #block-logintoboggan-logintoboggan-logged-in {
-  width: 200px;
+  width: 110px;
   float: right;
-  position: relative;
-  z-index: 1200;
-  margin-top: 30px;
-  
+/*  position: relative;
+  z-index: 1200; */
+  margin-top: 20px;
 }
 
+#block-logintoboggan-logintoboggan-logged-in a {
+  color: #000;
+}
