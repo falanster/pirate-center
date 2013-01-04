@@ -474,6 +474,7 @@ ul.tabs {
 .page-user .region-content-inner {
   margin-top: 33px;
   float: left;
+  width: 660px;
 }
 
 .page-node #zone-content-wrapper .region-content-inner #page-title {
