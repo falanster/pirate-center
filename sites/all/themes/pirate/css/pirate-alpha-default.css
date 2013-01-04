@@ -642,3 +642,13 @@ article.node-webform {
 #page ul.pager li a:hover {
   text-decoration: underline;
 }
+
+#block-logintoboggan-logintoboggan-logged-in {
+  width: 200px
+  float: right;
+  position: relative;
+  z-index: 1200;
+  margin-top: 30px;
+  
+}
+
