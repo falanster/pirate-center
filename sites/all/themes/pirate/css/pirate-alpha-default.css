@@ -25,6 +25,10 @@ p, div, ol, ul, li {
   font-size: 16px;
 }
 
+p {
+  margin-bottom: 0px;
+}
+
 /* Header */
 #zone-branding-wrapper {
   background: #000;
@@ -359,7 +363,7 @@ ul.tabs {
 
 .view-afishi .views-row .views-field-title {
   float: right;
-  margin-top: 30px;
+  margin-top: 20px;
   margin-right: 15px;
   clear: left; 
   text-align: right;
