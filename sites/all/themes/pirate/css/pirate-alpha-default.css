@@ -612,11 +612,11 @@ h1#page-title {
 	font-size: 12px;
 }
 
-.node-type-webform .node-webform .field-name-body {
+.page-node #block-system-main .node-webform .field-name-body {
   padding: 0px;
 }
 
-.node-type-webform .node-webform .field-name-body p {
+.page-node #block-system-main .node-webform .field-name-body p {
   margin-bottom: 0px;
 }
 
