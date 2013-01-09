@@ -25,7 +25,7 @@ p, div, ol, ul, li {
   font-size: 16px;
 }
 
-p {
+p, br {
   margin-bottom: 0px;
 }
 
@@ -600,12 +600,13 @@ h1#page-title {
 	float: none !important;
 	font-family: 'calibri_reg';
 }
-*/
+
 
 .node-type-webform div.content .field-name-body {
 	border: 3px solid #6F6D6D;
 	padding: 24px 16px;
 }
+*/
 
 .node-type-webform div.field-name-field-date {
 	margin-left: 10px;
