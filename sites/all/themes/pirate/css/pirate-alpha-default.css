@@ -576,6 +576,7 @@ ul.tabs {
 }
 
 .page-node #block-system-main .field-name-field-file {
+  background: url(../images/static_pages/soc_seti/download.png);
   margin: 0 0 10px 35px;
 }
 
