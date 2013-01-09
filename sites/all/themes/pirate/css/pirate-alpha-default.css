@@ -613,7 +613,7 @@ h1#page-title {
 }
 
 .page-node #block-system-main .node-webform .field-name-body {
-  padding: 0px;
+  margin: 0px;
 }
 
 .page-node #block-system-main .node-webform .field-name-body p {
