@@ -267,14 +267,14 @@ ul.tabs {
   float: right;
 
 }
-
+/*
 .view-news-lenta .view-header {
   float: left;
   margin-left: -65px;
   margin-top: 140px;
   position: relative;
   z-index: 999;
-}
+}  */
 
 .view-news-lenta .views-row .views-field-title {
   float: right;
