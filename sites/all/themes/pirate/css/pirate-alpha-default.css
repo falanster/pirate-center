@@ -224,13 +224,13 @@ ul.tabs {
 .page-node #block-sharethis-sharethis-block .sharethis-wrapper span,
 .not-front #block-sharethis-sharethis-block .sharethis-wrapper span {
   margin-top: 3px;
-}*/
+}
 
 .feed-icon a img {
   display: none; 
 }
 
-/*.page-node #block-sharethis-sharethis-block .sharethis-wrapper {
+.page-node #block-sharethis-sharethis-block .sharethis-wrapper {
   margin-top: -140px;
 } */
 
