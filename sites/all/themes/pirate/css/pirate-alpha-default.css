@@ -577,15 +577,20 @@ ul.tabs {
 
 .page-node #block-system-main .field-name-field-file {
   margin: 0 0 10px 35px;
+  height: 30px;
+  background: red;
 }
 
-.page-node #block-system-main .field-name-field-file .field-items {
+.page-node #block-system-main .field-name-field-file .field-item {
   background: url(/sites/default/files/static_pages/soc_seti/download_0.png) no-repeat;
-  margin: 10px;
 }
 
 .page-node #block-system-main .field-name-field-file .file {
-  margin-left: 20px;
+  margin-left: 30px;
+}
+
+.page-node #block-system-main .field-name-field-file .file img {
+  margin-top: -3px;
 }
 
 /* @endew and static pages */
