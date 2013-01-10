@@ -586,6 +586,7 @@ ul.tabs {
 }
 
 .page-node #block-system-main .field-name-field-file .file {
+  float: left;
   margin-left: 30px;
 }
 
