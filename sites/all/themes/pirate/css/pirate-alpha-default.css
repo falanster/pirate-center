@@ -490,8 +490,10 @@ ul.tabs {
             
 .page-user #block-views-afishi-block,
 .page-user #block-views-afishi-block-1,
+.page-user #block-views-afishi-block-2,
 .page-node #block-views-afishi-block,
-.page-node #block-views-afishi-block-1 {
+.page-node #block-views-afishi-block-1,
+.page-node #block-views-afishi-block-2 {
   float: left;
   width: 320px;
   margin-top: 40px;
@@ -499,8 +501,10 @@ ul.tabs {
 
 .page-node-20 #block-views-afishi-block,
 .page-node-20 #block-views-afishi-block-1,
+.page-node-20 #block-views-afishi-block-2,
 .page-node-21 #block-views-afishi-block,
-.page-node-21 #block-views-afishi-block-1 {
+.page-node-21 #block-views-afishi-block-1,
+.page-node-21 #block-views-afishi-block-2 {
   float: left;
   width: 320px;
   margin-top: 16px;
