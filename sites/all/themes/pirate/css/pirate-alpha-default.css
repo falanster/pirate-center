@@ -576,15 +576,13 @@ ul.tabs {
 }
 
 .page-node #block-system-main .field-name-field-file {
-  margin: 0 0 10px 35px;
-  height: 30px;
-  background: red;
+  float: left;
+  margin: -10px 0 10px 35px;
 }
 
 .page-node #block-system-main .field-name-field-file .field-item {
   background: url(/sites/default/files/static_pages/soc_seti/download_0.png) no-repeat;
   float: left;
-  margin-top: 10px;
 }
 
 .page-node #block-system-main .field-name-field-file .file {
@@ -593,12 +591,12 @@ ul.tabs {
 
 .page-node #block-system-main .field-name-field-file .file img {
   float: left;
-  margin-top: -3px;
+  margin: 1px 5px 0 0;
 }
 
 .page-node #block-system-main .field-name-field-file .file a {
   float: left;
-  margin-top: 0px;
+  margin-top: -3px;
 }
 
 /* @endew and static pages */
