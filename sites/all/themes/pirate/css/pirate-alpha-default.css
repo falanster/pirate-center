@@ -580,6 +580,10 @@ ul.tabs {
   margin: 0 0 10px 35px;
 }
 
+.page-node #block-system-main .field-name-field-file span {
+  margin-left: 20px;
+}
+
 /* @endew and static pages */
 
 /* inner pages specific styles */
