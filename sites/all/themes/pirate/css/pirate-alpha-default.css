@@ -68,7 +68,8 @@ p, br {
   z-index: 999;
 }
 
-#block-block-4 a img {
+#block-block-4 a img,
+#block-block-8 {
   margin-top: 10px;
   margin-right: -10px;
 }
@@ -81,6 +82,8 @@ p, br {
   z-index: 1100;
   margin: 10px -155px 0 0;
 }
+
+
 
 /* @end logo and sitename */
 
