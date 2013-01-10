@@ -164,12 +164,17 @@ p, br {
 
 /* Sharethis block */
 
+.sharethis-buttons {
+  width: 100%;
+}
+
+/*
 .page-frontpage #block-sharethis-sharethis-block,
 .not-front #block-sharethis-sharethis-block {
   float: left;
   margin-left: -10px;
 }
-/*
+
 .page-frontpage #block-sharethis-sharethis-block .sharethis-wrapper,
 .not-front #block-sharethis-sharethis-block .sharethis-wrapper {
   width: 38px;  
