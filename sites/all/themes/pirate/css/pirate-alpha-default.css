@@ -166,6 +166,8 @@ p, br {
 
 .sharethis-buttons {
   width: 100%;
+  float: left;
+  margin: 10px 0 15px 30px;
 }
 
 /*
