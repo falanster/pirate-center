@@ -583,6 +583,8 @@ ul.tabs {
 
 .page-node #block-system-main .field-name-field-file .field-item {
   background: url(/sites/default/files/static_pages/soc_seti/download_0.png) no-repeat;
+  float: left;
+  margin-top: 10px;
 }
 
 .page-node #block-system-main .field-name-field-file .file {
@@ -590,7 +592,13 @@ ul.tabs {
 }
 
 .page-node #block-system-main .field-name-field-file .file img {
+  float: left;
   margin-top: -3px;
+}
+
+.page-node #block-system-main .field-name-field-file .file a {
+  float: left;
+  margin-top: 0px;
 }
 
 /* @endew and static pages */
