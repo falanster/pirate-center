@@ -580,7 +580,7 @@ ul.tabs {
   margin: 0 0 10px 35px;
 }
 
-.page-node #block-system-main .field-name-field-file span {
+.page-node #block-system-main .field-name-field-file .file {
   margin-left: 20px;
 }
 
