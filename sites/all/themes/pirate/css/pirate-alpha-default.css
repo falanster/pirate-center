@@ -576,8 +576,12 @@ ul.tabs {
 }
 
 .page-node #block-system-main .field-name-field-file {
-  background: url(/sites/default/files/static_pages/soc_seti/download_0.png) no-repeat;
   margin: 0 0 10px 35px;
+}
+
+.page-node #block-system-main .field-name-field-file .field-items {
+  background: url(/sites/default/files/static_pages/soc_seti/download_0.png) no-repeat;
+  margin: 10px;
 }
 
 .page-node #block-system-main .field-name-field-file .file {
