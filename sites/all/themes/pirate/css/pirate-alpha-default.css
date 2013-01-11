@@ -5,9 +5,13 @@ div#admin-menu ul li a {
   font-size: 14px;
 }
 
-
 body {
   font-family: Calibri;
+  font-size: 14px;
+}
+
+.page-admin {
+  font-size: 14px;
 }
 
 a,
@@ -25,6 +29,10 @@ p, div, ol, ul, li {
   font-size: 16px;
 }
 
+p, br {
+  margin-bottom: 0px;
+}
+
 /* Header */
 #zone-branding-wrapper {
   background: #000;
@@ -34,6 +42,7 @@ p, div, ol, ul, li {
 /* Logo and sitename*/
 #block-block-1{
   float: left;
+  margin-top: 20px;
 }
 
 #block-block-1 a img {
@@ -47,13 +56,19 @@ p, div, ol, ul, li {
 
 #block-block-2 a img {
   float: left;
-  margin-top: 40px;
+  margin-top: 60px;
 }
 
 #block-block-3,
 #block-block-4 {
   float: right;
 }
+
+#block-block-3 {
+  position: relative;
+  z-index: 200;
+  margin-right: -175px;
+} 
 
 #block-block-3 a img{
   margin-top: 55px;
@@ -65,20 +80,19 @@ p, div, ol, ul, li {
   z-index: 999;
 }
 
-#block-block-4 a img {
+#block-block-4 a img,
+#block-block-8 {
   margin-top: 10px;
   margin-right: -10px;
 }
 
 #block-block-7 {
   float: right;
-  height: 50px;
-  width: 150px;
+  height: 35px;
   position: relative;
   z-index: 1100;
-  margin: 10px -164px 0 0;
+  margin-top: 15px; 
 }
-
 
 /* @end logo and sitename */
 
@@ -112,17 +126,18 @@ p, div, ol, ul, li {
 /* @end header menu*/
 
 /* Main menu */
+
 #block-menu-menu-main-menu {
   float: right;
-  position: relative;
+/*  position: relative;
   z-index: 90;
-  width: 100%;
-}
+  width: 100%; */
+} 
 
 #block-menu-menu-main-menu ul {
   text-align: right;
-  margin-right: 85px;
-  margin-top: -6px;
+  margin-right: 35px;
+  margin-top: 5px;
 }
 
 #block-menu-menu-main-menu li {
@@ -159,6 +174,13 @@ p, div, ol, ul, li {
 
 /* Sharethis block */
 
+.sharethis-buttons {
+  width: 100%;
+  float: left;
+  margin: 20px 0 25px 30px;
+}
+
+/*
 .page-frontpage #block-sharethis-sharethis-block,
 .not-front #block-sharethis-sharethis-block {
   float: left;
@@ -176,12 +198,12 @@ p, div, ol, ul, li {
 .not-front #block-sharethis-sharethis-block .sharethis-wrapper {
   height: 175px;
   width: 40px;
-}
+} */
 
 .page-user #page-title {
   padding: 0 0 20px 0;
 }
-
+/*
 .page-node #block-sharethis-sharethis-block .sharethis-wrapper,
 .page-user #block-sharethis-sharethis-block .sharethis-wrapper {
   height: 130px;
@@ -191,7 +213,7 @@ p, div, ol, ul, li {
   left: 10px;
   position: absolute;
   top: 20px;
-}
+} */
 
 .page-user .block-system {
   width: 98%;
@@ -214,7 +236,7 @@ ul.tabs {
   float: left;
   width: 97%;
 }
-
+/*
 .page-frontpage #block-sharethis-sharethis-block .sharethis-wrapper span,
 .page-node #block-sharethis-sharethis-block .sharethis-wrapper span,
 .not-front #block-sharethis-sharethis-block .sharethis-wrapper span {
@@ -225,16 +247,19 @@ ul.tabs {
   display: none; 
 }
 
-/*.page-node #block-sharethis-sharethis-block .sharethis-wrapper {
+.page-node #block-sharethis-sharethis-block .sharethis-wrapper {
   margin-top: -140px;
 } */
 
 /* @end sharethis block */
 
 /* Lenta novostej */
-
 .zone-content {
-  margin-top: 40px;
+  margin-top: 20px;
+}
+
+.front .zone-content {
+  margin-top: 30px;
 }
 
 .title_container {
@@ -242,7 +267,8 @@ ul.tabs {
   width: 100%;
 }
 
-.page-frontpage h1#page-title,
+/*.page-frontpage */
+h1#page-title,
 .contextual-links-region h1#page-title,
 .not-logged-in  h1#page-title,
 #block-views-afishi-frontpage-block h2.block-title,
@@ -262,14 +288,14 @@ ul.tabs {
   float: right;
 
 }
-
+/*
 .view-news-lenta .view-header {
   float: left;
   margin-left: -65px;
   margin-top: 140px;
   position: relative;
   z-index: 999;
-}
+}  */
 
 .view-news-lenta .views-row .views-field-title {
   float: right;
@@ -334,12 +360,21 @@ ul.tabs {
 
 /* Afishi i kolonki */
 
+
+#block-views-afishi-block,
+#block-views-afishi-block-1,
+#block-views-afishi-block-2,
+.page-frontpage #block-block-5 {
+  margin-bottom: 40px;
+/*  margin-top: 0px;*/
+}
+
+
 #block-views-afishi-block .content,
 #block-views-afishi-block-1 .content,
 #block-views-afishi-block-2 .content {
   border: #6f6d6d 3px solid;
   width: 300px;
-  margin-bottom: 45px;
 }
 
 #block-views-afishi-block h2.block-title,
@@ -351,6 +386,21 @@ ul.tabs {
   margin-left: 22px; 
 } 
 
+#block-views-afishi-block h2.block-title a,
+#block-views-afishi-block-1 h2.block-title a,
+#block-views-afishi-block h2.block-title a:link,
+#block-views-afishi-block-1 h2.block-title a:link,
+#block-views-afishi-block h2.block-title a:visited,
+#block-views-afishi-block-1 h2.block-title a:visited {
+  color: #6f6d6d;
+}
+
+#block-views-afishi-block h2.block-title a:hover,
+#block-views-afishi-block-1 h2.block-title a:hover {
+  color: #CB2323;
+  text-decoration: none;
+}
+
 .view-afishi .views-row {
   float: left;
   margin-bottom: 10px;
@@ -359,7 +409,7 @@ ul.tabs {
 
 .view-afishi .views-row .views-field-title {
   float: right;
-  margin-top: 30px;
+  margin-top: 20px;
   margin-right: 15px;
   clear: left; 
   text-align: right;
@@ -376,17 +426,17 @@ ul.tabs {
 
 .view-afishi .views-row .views-field-field-image a img {
   float: left;
-  margin: 10px 20px 2px 17px;
+  margin: 5px 20px 0px 17px;
 }
 
 .view-afishi .views-row .views-field-body {
   padding: 0 15px;
 }
-
+/*
 .view-afishi .views-row .views-field-body p {
-/*  margin-bottom: 0px;
-  width: 100%; */
-}
+  margin-bottom: 0px;
+  width: 100%; 
+} */
 
 .view-afishi .views-row .views-field-body .field-content {
   color: #3d3d3d;
@@ -399,9 +449,21 @@ ul.tabs {
   margin-left: 17px;
 }
 
-.not-logged-in #block-views-afishi-block {
-  margin-top: 30px;
+.view-afishi .view-footer {
+  float: left;
+  width: 270px;
+  text-align: right;
+  padding: 0 15px 3px;
 }
+.view-afishi .view-footer a {
+  font-size: 14px;
+}
+
+/*
+.not-logged-in #block-views-afishi-block,
+.not-logged-in #block-views-afishi-block-2 {
+  margin-top: 30px;
+} */
 
 /* @end afishi i kolonki */
 
@@ -448,7 +510,7 @@ ul.tabs {
 }
 
 #breadcrumb {
-  margin-bottom: -60px;
+/*  margin-bottom: -60px;*/
   float: left;
   width: 100%;
 }
@@ -458,12 +520,12 @@ ul.tabs {
   font-size: 14px;
   text-decoration: none;
 }
-
+/*
 .page-node #region-content,
 .not-logged-in #region-content {
   margin-top: 30px;
 }
-
+*/
 .page-user .region-content-inner,
 .page-node #zone-content-wrapper .region-content-inner {
   border: #6f6d6d 3px solid;
@@ -497,12 +559,13 @@ ul.tabs {
 
 .page-node-20 #block-views-afishi-block,
 .page-node-20 #block-views-afishi-block-1,
+.page-node-20 #block-views-afishi-block-2,
 .page-node-21 #block-views-afishi-block,
-.page-node-21 #block-views-afishi-block-1 {
+.page-node-21 #block-views-afishi-block-1,
+.page-node-21 #block-views-afishi-block-2 {
   float: left;
-  width: 320px;
-  margin-top: 16px;
-  margin-bottom: -20px;
+  width: 320px;  
+  margin-top: -13px;
 }
 
 .page-user #block-block-5,
@@ -574,7 +637,28 @@ ul.tabs {
 }
 
 .page-node #block-system-main .field-name-field-file {
-  margin: 0 0 10px 35px;
+  float: left;
+  margin: -10px 0 10px 35px;
+}
+
+.page-node #block-system-main .field-name-field-file .field-item {
+  background: url(/sites/default/files/static_pages/soc_seti/download_0.png) no-repeat;
+  float: left;
+}
+
+.page-node #block-system-main .field-name-field-file .file {
+  float: left;
+  margin-left: 30px;
+}
+
+.page-node #block-system-main .field-name-field-file .file img {
+  float: left;
+  margin: 1px 5px 0 0;
+}
+
+.page-node #block-system-main .field-name-field-file .file a {
+  float: left;
+  margin-top: -3px;
 }
 
 /* @endew and static pages */
@@ -584,29 +668,38 @@ ul.tabs {
 #region-content {
   margin-top: 0px;
 }
-
+/*
 .not-front .contextual-links-region #region-content,
 .not-front .contextual-links-region #block-views-afishi-block {
   margin-top: 40px;
 }
-
+*/
 /*
 h1#page-title {
 	text-align: left !important;
 	float: none !important;
 	font-family: 'calibri_reg';
 }
-*/
 
 .node-type-webform div.content .field-name-body {
 	border: 3px solid #6F6D6D;
 	padding: 24px 16px;
 }
+*/
 
 .node-type-webform div.field-name-field-date {
 	margin-left: 10px;
 	font-size: 12px;
 }
+
+.page-node #block-system-main .node-webform .field-name-body {
+  margin: 0px;
+}
+
+.page-node #block-system-main .node-webform .field-name-body p {
+  margin-bottom: 0px;
+}
+
 
 #disqus_thread {
   margin: 0 35px 30px;
@@ -645,7 +738,7 @@ article.node-webform {
 }
 
 #block-logintoboggan-logintoboggan-logged-in {
-  width: 110px;
+  min-width: 110px;
   float: right;
   position: relative;
   z-index: 1200; 
