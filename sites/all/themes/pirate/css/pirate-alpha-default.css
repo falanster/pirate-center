@@ -506,7 +506,7 @@ ul.tabs {
 }
 
 #breadcrumb {
-  margin-bottom: -60px;
+/*  margin-bottom: -60px;*/
   float: left;
   width: 100%;
 }
@@ -560,8 +560,8 @@ ul.tabs {
 .page-node-21 #block-views-afishi-block-1,
 .page-node-21 #block-views-afishi-block-2 {
   float: left;
-  width: 320px;
-  margin-top: 16px;
+  width: 320px;  
+  margin-top: -13px;
 }
 
 .page-user #block-block-5,
