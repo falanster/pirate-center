@@ -254,9 +254,12 @@ ul.tabs {
 /* @end sharethis block */
 
 /* Lenta novostej */
-
 .zone-content {
-  margin-top: 40px;
+  margin-top: 20px;
+}
+
+.front .zone-content {
+  margin-top: 30px;
 }
 
 .title_container {
@@ -664,12 +667,12 @@ ul.tabs {
 #region-content {
   margin-top: 0px;
 }
-
+/*
 .not-front .contextual-links-region #region-content,
 .not-front .contextual-links-region #block-views-afishi-block {
   margin-top: 40px;
 }
-
+*/
 /*
 h1#page-title {
 	text-align: left !important;
