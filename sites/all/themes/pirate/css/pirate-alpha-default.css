@@ -58,6 +58,12 @@ p, br {
   float: right;
 }
 
+#block-block-3 {
+  position: relative;
+  z-index: 200;
+  margin-right: -150px;
+} 
+
 #block-block-3 a img{
   margin-top: 55px;
   margin-right: -10px;
