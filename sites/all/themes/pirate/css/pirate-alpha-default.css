@@ -357,13 +357,14 @@ ul.tabs {
 /* Afishi i kolonki */
 
 
-#block-views-afishi-block,
+/*#block-views-afishi-block*/
 #block-views-afishi-block-1,
 #block-views-afishi-block-2,
 .page-frontpage #block-block-5 {
   margin-bottom: 15px;
   margin-top: 30px;
 }
+
 
 #block-views-afishi-block .content,
 #block-views-afishi-block-1 .content,
@@ -515,12 +516,12 @@ ul.tabs {
   font-size: 14px;
   text-decoration: none;
 }
-
+/*
 .page-node #region-content,
 .not-logged-in #region-content {
   margin-top: 30px;
 }
-
+*/
 .page-user .region-content-inner,
 .page-node #zone-content-wrapper .region-content-inner {
   border: #6f6d6d 3px solid;
