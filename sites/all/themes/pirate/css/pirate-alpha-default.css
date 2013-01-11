@@ -80,7 +80,7 @@ p, br {
   position: relative;
   z-index: 1100;
   background: red;
-/*  margin: 10px -155px 0 0; */
+  margin: 10px -155px 0 0; 
 }
 
 /* @end logo and sitename */
