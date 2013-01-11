@@ -7,6 +7,11 @@ div#admin-menu ul li a {
 
 body {
   font-family: Calibri;
+  font-size: 14px;
+}
+
+.page-admin {
+  font-size: 14px;
 }
 
 a,
@@ -414,7 +419,7 @@ ul.tabs {
 
 .view-afishi .views-row .views-field-field-image a img {
   float: left;
-  margin: 10px 20px 2px 17px;
+  margin: 5px 20px 0px 17px;
 }
 
 .view-afishi .views-row .views-field-body {
@@ -441,10 +446,10 @@ ul.tabs {
   float: left;
   width: 270px;
   text-align: right;
-  padding: 0 15px;
+  padding: 0 15px 3px;
 }
 .view-afishi .view-footer a {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 /*
