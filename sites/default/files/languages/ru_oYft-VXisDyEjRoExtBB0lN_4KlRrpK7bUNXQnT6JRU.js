@@ -1,1 +1,0 @@
-Drupal.locale = { 'strings': {"":{"StatusText: !statusText":"Статус", "Edit":"Редактировать"}} };
