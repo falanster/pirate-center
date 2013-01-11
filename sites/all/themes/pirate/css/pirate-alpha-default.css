@@ -437,6 +437,17 @@ ul.tabs {
   clear: left;
   margin-left: 17px;
 }
+
+.view-afishi .view-footer {
+  float: left;
+  width: 270px;
+  text-align: right;
+  padding: 0 15px;
+}
+.view-afishi .view-footer a {
+  font-size: 12px;
+}
+
 /*
 .not-logged-in #block-views-afishi-block,
 .not-logged-in #block-views-afishi-block-2 {
