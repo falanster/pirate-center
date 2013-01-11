@@ -5,6 +5,10 @@ div#admin-menu ul li a {
   font-size: 14px;
 }
 
+#admin-menu-wrapper {
+ font-size: 1em;
+}
+
 body {
   font-family: Calibri;
   font-size: 14px;
