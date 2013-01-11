@@ -58,6 +58,12 @@ p, br {
   float: right;
 }
 
+#block-block-3 {
+  position: relative;
+  z-index: 200;
+  margin-right: -150px;
+}
+
 #block-block-3 a img{
   margin-top: 55px;
   margin-right: -10px;
@@ -80,7 +86,7 @@ p, br {
   position: relative;
   z-index: 1100;
   background: red;
-  margin: 10px -155px 0 0; 
+  margin-top: 10px; 
 }
 
 /* @end logo and sitename */
