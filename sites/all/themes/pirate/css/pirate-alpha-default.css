@@ -267,7 +267,8 @@ ul.tabs {
   width: 100%;
 }
 
-.page-frontpage h1#page-title,
+/*.page-frontpage */
+h1#page-title,
 .contextual-links-region h1#page-title,
 .not-logged-in  h1#page-title,
 #block-views-afishi-frontpage-block h2.block-title,
