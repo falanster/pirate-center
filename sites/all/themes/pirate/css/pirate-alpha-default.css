@@ -121,13 +121,13 @@ p, br {
 /* @end header menu*/
 
 /* Main menu */
-/*
+
 #block-menu-menu-main-menu {
   float: right;
-  position: relative;
+/*  position: relative;
   z-index: 90;
-  width: 100%;
-} */
+  width: 100%; */
+} 
 
 #block-menu-menu-main-menu ul {
   text-align: right;
