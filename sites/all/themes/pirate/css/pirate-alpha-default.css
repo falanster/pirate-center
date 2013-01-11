@@ -37,6 +37,7 @@ p, br {
 /* Logo and sitename*/
 #block-block-1{
   float: left;
+  margin-top: 20px;
 }
 
 #block-block-1 a img {
@@ -50,7 +51,7 @@ p, br {
 
 #block-block-2 a img {
   float: left;
-  margin-top: 40px;
+  margin-top: 60px;
 }
 
 #block-block-3,
@@ -120,12 +121,13 @@ p, br {
 /* @end header menu*/
 
 /* Main menu */
+/*
 #block-menu-menu-main-menu {
   float: right;
   position: relative;
   z-index: 90;
   width: 100%;
-}
+} */
 
 #block-menu-menu-main-menu ul {
   text-align: right;
