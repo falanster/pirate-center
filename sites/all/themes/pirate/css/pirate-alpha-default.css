@@ -649,3 +649,13 @@ article.node-webform {
 }
 
 /* @end for plakat*/
+
+/* quotes */
+
+blockquote {
+  background: #FFFFCC;
+  margin: 0 10px;
+  font-style: italic;
+}
+
+/* @end quotes */
