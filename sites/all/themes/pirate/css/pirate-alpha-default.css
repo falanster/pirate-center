@@ -641,6 +641,11 @@ article.node-webform {
 .plakat {
   font-size: 14px;
   font-weight: bold;
+  float: left;  
+  margin-bottom: 20px;
+  padding-right: 170px;
+  text-align: center;
+  width: 400px;
 }
 
 /* @end for plakat*/
