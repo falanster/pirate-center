@@ -531,7 +531,7 @@ h1#page-title,
 .page-node #block-system-main .field-name-body ol,
 .page-node #block-system-main .field-name-body div {
   font-size: 16px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .page-node #block-system-main .field-name-body li {
@@ -653,7 +653,6 @@ article.node-webform {
 /* quotes */
 
 blockquote {
-  background: #FFFFCC;
   margin: 0 10px;
 }
 
