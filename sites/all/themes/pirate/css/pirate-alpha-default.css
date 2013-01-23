@@ -655,7 +655,11 @@ article.node-webform {
 blockquote {
   background: #FFFFCC;
   margin: 0 10px;
+}
+
+blockquote p {
   font-style: italic;
+  padding: 10px;
 }
 
 /* @end quotes */
