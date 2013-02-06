@@ -641,7 +641,8 @@ article.node-webform {
 
 /* for plakat */
 
-.plakat {
+.plakat,
+.caption {
   font-size: 14px;
   font-weight: bold;
   float: left;  
