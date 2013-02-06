@@ -99,10 +99,6 @@ p, br {
 
 /* Header menu */
 
-#block-menu-menu-header-menu {
-  width: 500px;
-}
-
 #block-menu-menu-header-menu .block-title {
   display: none;
 }
@@ -115,7 +111,7 @@ p, br {
   display: inline;
   list-style: none;
   float: right;
-  margin: 20px 20px 15px 0px;
+  margin: 20px 15px 15px 0px;
   padding: 0px;
 }
 
