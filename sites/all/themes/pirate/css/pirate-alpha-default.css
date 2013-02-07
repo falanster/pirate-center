@@ -652,6 +652,12 @@ article.node-webform {
   width: 400px;
 }
 
+.caption p {
+  font-size: 14px;
+  font-weight: bold;
+  margin: 20px 0;
+}
+
 /* @end for plakat*/
 
 /* quotes */
