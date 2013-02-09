@@ -672,3 +672,7 @@ blockquote p {
 }
 
 /* @end quotes */
+
+.webform-confirmation p {
+  clear: right; 
+}
