@@ -475,7 +475,10 @@ h1#page-title,
 .page-node-20 #block-views-afishi-block-2,
 .page-node-21 #block-views-afishi-block,
 .page-node-21 #block-views-afishi-block-1,
-.page-node-21 #block-views-afishi-block-2 {
+.page-node-21 #block-views-afishi-block-2,
+.page-node-85 #block-views-afishi-block,
+.page-node-85 #block-views-afishi-block-1,
+.page-node-85 #block-views-afishi-block-2 {
   float: left;
   width: 320px;  
   margin-top: -13px;
