@@ -692,3 +692,9 @@ blockquote p {
 .webform-results-per-page {
   clear: right; 
 }
+
+.webform-results-per-page .caption {
+  width: auto;
+  margin: 0;
+  padding: 0;
+}
