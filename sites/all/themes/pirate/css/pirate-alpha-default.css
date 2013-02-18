@@ -677,6 +677,11 @@ blockquote p {
 
 /* @end quotes */
 
+.page-node-webform #region-content {
+  width: 100%;
+}
+
+
 .webform-confirmation p,
 #webform-submission-delete-form div {
   clear: right; 
