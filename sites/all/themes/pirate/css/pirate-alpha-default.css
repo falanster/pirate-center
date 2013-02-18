@@ -677,7 +677,8 @@ blockquote p {
 
 /* @end quotes */
 
-.page-node-webform #region-content {
+.page-node-webform #region-content,
+.page-node-webform-results #region-content {
   width: 100%;
 }
 
@@ -687,7 +688,7 @@ blockquote p {
 }
 
 .webform-confirmation p,
-#webform-submission-delete-form div
+#webform-submission-delete-form div,
 .webform-results-per-page {
   clear: right; 
 }
