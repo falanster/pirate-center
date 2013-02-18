@@ -693,7 +693,7 @@ blockquote p {
   clear: right; 
 }
 
-.webform-results-per-page .caption {
+.page-node-webform-results .caption {
   width: auto;
   margin: 0;
   padding: 0;
