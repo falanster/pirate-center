@@ -681,7 +681,8 @@ blockquote p {
   width: 100%;
 }
 
-.page-node-webform #webform-emails {
+.page-node-webform #webform-emails,
+.page-node-webform #edit-submission {
   float: left;
 }
 
