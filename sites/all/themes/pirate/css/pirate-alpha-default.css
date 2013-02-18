@@ -681,6 +681,9 @@ blockquote p {
   width: 100%;
 }
 
+.page-node-webform #webform-emails {
+  float: left;
+}
 
 .webform-confirmation p,
 #webform-submission-delete-form div {
