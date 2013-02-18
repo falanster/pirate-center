@@ -687,6 +687,7 @@ blockquote p {
 }
 
 .webform-confirmation p,
-#webform-submission-delete-form div {
+#webform-submission-delete-form div
+.webform-results-per-page {
   clear: right; 
 }
