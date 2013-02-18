@@ -677,6 +677,7 @@ blockquote p {
 
 /* @end quotes */
 
-.webform-confirmation p {
+.webform-confirmation p,
+#webform-submission-delete-form div {
   clear: right; 
 }
