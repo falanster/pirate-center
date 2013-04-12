@@ -390,6 +390,10 @@ h1#page-title,
   font-size: 14px;
 }
 
+.front #block-block-9 {
+  margin-top: 0px;
+}
+
 #block-block-9 {
   margin-top: 25px;
 }
