@@ -390,6 +390,10 @@ h1#page-title,
   font-size: 14px;
 }
 
+#block-block-9 {
+  margin-top: 25px;
+}
+
 /* @end afishi i kolonki */
 
 
@@ -401,8 +405,7 @@ h1#page-title,
   margin-top: 30px;
 }
 
-#block-menu-menu-footer-menu,
-#block-block-9 {
+#block-menu-menu-footer-menu {
   margin-top: 15px;
 }
 
