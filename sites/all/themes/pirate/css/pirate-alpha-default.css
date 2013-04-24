@@ -109,10 +109,10 @@ p, br {
 #block-menu-menu-header-menu .block-title {
   display: none;
 }
-
+/*
 #block-menu-menu-header-menu ul {
   margin-right: -27px;
-}
+} */
 
 #block-menu-menu-header-menu ul li {
   display: inline;
