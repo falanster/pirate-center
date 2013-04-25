@@ -101,6 +101,12 @@ p, br {
 
 /* Header menu */
 
+#block-block-10 {
+    float: left;
+    margin-left: -450px;
+    margin-top: 20px;
+}
+
 #block-menu-menu-header-menu {
   width: 500px;
   margin-left: -50px;
