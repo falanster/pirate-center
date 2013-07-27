@@ -99,7 +99,7 @@ http://colorwebdesigner.ru/ya-za.html
 
     <div id="footer-wrapper">
       <div id="footer">
-        <?php print //$footer_message; ?>
+        <?php //print $footer_message; ?>
         <?php if (!empty($footer)): print $footer; endif; ?>
       </div> <!-- /footer -->
     </div> <!-- /footer-wrapper -->
