@@ -72,6 +72,18 @@
           <?php if (!empty($messages)): print $messages; endif; ?>
           <div id="content-content" class="clear-block">
             <?php print $content; ?>
+<p>
+Если интернет ограничивают у твоих соседей, скоро его ограничат у тебя.
+Это глобализация!
+
+<b>1 августа - интернет-забастовка.</b>
+Пираты Беларуси солидарны с российским интернет-сообществом.
+
+
+Полезные ссылки:
+http://piratetimes.net/russian-pirates-battle-piracy-laws/
+http://colorwebdesigner.ru/ya-za.html
+</p>
           </div> <!-- /content-content -->
         </div> <!-- /content -->
 
