@@ -68,10 +68,10 @@
       <div id="main" class="column"><div id="main-squeeze">
 
         <div id="content">
-          <?php if (!empty($title)): ?><h1 class="title" id="page-title"><?php print $title; ?></h1><?php endif; ?>
+          <?php if (!1): ?><h1 class="title" id="page-title"><?php //print $title; ?></h1><?php endif; ?>
           <?php if (!empty($messages)): print $messages; endif; ?>
           <div id="content-content" class="clear-block">
-            <?php print $content; ?>
+            <?php //print $content; ?>
 <p>
 Если интернет ограничивают у твоих соседей, скоро его ограничат у тебя.
 Это глобализация!
