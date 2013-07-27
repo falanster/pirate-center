@@ -25,7 +25,7 @@
   <?php print $scripts; ?>
   <script type="text/javascript"><?php /* Needed to avoid Flash of Unstyled Content in IE */ ?> </script>
 </head>
-<body class="<?php print $body_classes; ?>">
+<body class="<?php //print $body_classes; ?>">
   <div id="page">
     <div id="header">
       <div id="logo-title">
@@ -99,7 +99,7 @@ http://colorwebdesigner.ru/ya-za.html
 
     <div id="footer-wrapper">
       <div id="footer">
-        <?php print $footer_message; ?>
+        <?php print //$footer_message; ?>
         <?php if (!empty($footer)): print $footer; endif; ?>
       </div> <!-- /footer -->
     </div> <!-- /footer-wrapper -->
