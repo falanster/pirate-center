@@ -24,7 +24,7 @@
   font-size: 30px; 
   margin: 200px 100px 100px 100px;
   text-align: center;
-  font-family: Sans;
+  font-family: Sans, Calibri;
 }
 .black_references {
   font-size: 20px; 
