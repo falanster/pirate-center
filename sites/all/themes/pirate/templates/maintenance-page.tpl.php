@@ -26,6 +26,9 @@
   text-align: center;
   font-family: Sans;
 }
+.black_references {
+  font-size: 20px; 
+}
 a{
   color: #6f6d6d; 
 }
