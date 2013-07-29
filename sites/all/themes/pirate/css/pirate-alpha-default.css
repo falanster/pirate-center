@@ -11,9 +11,16 @@ body {
   background: #ffffff;
 }
 
+/*body {
+  font-family: Calibri;
+  font-size: 14px;
+  background: #ffffff;
+}
+*/
 .page-admin {
   font-size: 14px;
 }
+
 
 a,
 a:link,
@@ -237,6 +244,7 @@ h1#page-title,
   margin-bottom: -12px;
   margin-left: 22px;
 }
+
 
 .view-news-lenta .views-row {
   border: #6f6d6d 3px solid;
@@ -720,3 +728,9 @@ blockquote p {
   margin: 0;
   padding: 0;
 }
+
+.blackpage {
+  background: black;
+}
+
+

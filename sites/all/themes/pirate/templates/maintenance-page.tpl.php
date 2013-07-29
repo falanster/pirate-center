@@ -17,7 +17,19 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="<?php print $language->language ?>" lang="<?php print $language->language ?>" dir="<?php print $language->dir ?>">
-
+<style>
+.blackpage {
+  background: black; 
+  color: white; 
+  font-size: 30px; 
+  margin: 200px 100px 100px 100px;
+  text-align: center;
+  font-family: Sans;
+}
+a{
+  color: #6f6d6d; 
+}
+</style>
 <head>
   <?php print $head; ?>
   <title><?php print $head_title; ?></title>
@@ -25,9 +37,11 @@
   <?php print $scripts; ?>
   <script type="text/javascript"><?php /* Needed to avoid Flash of Unstyled Content in IE */ ?> </script>
 </head>
-<body class="<?php //print $body_classes; ?>">
+<!-- <body class="<?php //print $body_classes; ?>"> -->
+
+<body class="blackpage">
   <div id="page">
-    <div id="header">
+  <!--  <div id="header">
       <div id="logo-title">
 
         <?php if (!empty($logo)): ?>
@@ -47,9 +61,9 @@
             <div id="site-slogan"><?php print $site_slogan; ?></div>
           <?php endif; ?>
         </div> <!-- /name-and-slogan -->
-      </div> <!-- /logo-title -->
+   <!--   </div> <!-- /logo-title -->
 
-      <?php if (!empty($header)): ?>
+    <!--  <?php if (!empty($header)): ?>
         <div id="header-region">
           <?php print $header; ?>
         </div>
