@@ -35,7 +35,8 @@ a{
 </style>
 <head>
   <?php print $head; ?>
-  <title><?php print $head_title; ?></title>
+  <title>Сайт на забастовке</title>
+<!--<title><?php print $head_title; ?></title> -->
   <?php print $styles; ?>
   <?php print $scripts; ?>
   <script type="text/javascript"><?php /* Needed to avoid Flash of Unstyled Content in IE */ ?> </script>
