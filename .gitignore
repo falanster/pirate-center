@@ -8,6 +8,9 @@ sites/*/private
 *htaccess
 *.htaccess
 
+backup
+backup/*
+
 
 # Ignore cache files
 sites/default/files/css/*
