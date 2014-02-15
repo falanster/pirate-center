@@ -12,6 +12,9 @@ sites/*/private
 backup
 backup/*
 
+phpmyadmin
+phpmyadmin/*
+
 
 # Ignore cache files
 sites/default/files/css/*
