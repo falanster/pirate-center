@@ -15,6 +15,9 @@ sites/default/files2.zip
 backup
 backup/*
 
+phpmyadmin
+phpmyadmin/*
+
 
 # Ignore cache files
 sites/default/files/css/*
