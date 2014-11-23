@@ -5,6 +5,9 @@ sites/*/settings*.php
 sites/*/files
 sites/*/private
 
+phpmyadmin
+sites/default/files2.zip
+
 *htaccess
 *.htaccess
 .ftpquota
